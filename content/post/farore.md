@@ -1,7 +1,7 @@
 ---
 timeToRead: 2
 authors:
-- Alex
+- Alex Dapunt
 title: Faroe
 excerpt: Guide to the north
 date: 2022-05-31T22:00:00.000+00:00
