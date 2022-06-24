@@ -1,18 +1,11 @@
 ---
-title: Brad Tiller
-bio: |
-  Written by You. This is where your author bio lives. Share your work, your
-  joys and of course, your Twitter handle.
-avatar: /images/brad-tiller.jpg
+title: Maila Varraso
+bio: The woman behind this Blog
+avatar: "/images/1618157235039.jpeg"
 social:
-  - title: github
-    url: https://github.com
-  - title: github
-    url: https://github.com
-  - title: github
-    url: https://github.com
-  - title: github
-    url: https://github.com
-  - title: github
-    url: https://github.com
+- title: LinkedIn
+  url: https://www.linkedin.com/in/mailavarraso/
+- title: github
+  url: https://github.com
+
 ---
