@@ -11,8 +11,7 @@
             </div>
         </header>
         {{ with .Page.Params.hero }}
-        <div class="article-hero-image" id="ArticleImage__Hero">
-            <img src="{{ . }}">
+        <div class="article-hero-image" id="ArticleImage__Hero" style="background-image: url('{{ . }}');">
         </div>
         {{ end }}
     </div>
