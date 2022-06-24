@@ -7,5 +7,6 @@ social:
   url: https://www.linkedin.com/in/mailavarraso/
 - title: instagram
   url: https://www.instagram.com/mailavarraso/
+featured: true
 
 ---
