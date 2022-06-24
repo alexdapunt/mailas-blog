@@ -1,12 +1,12 @@
 ---
 baseURL: https://example.com
 languageCode: en-us
-title: Hugo Novela
+title: Mailas Blog
 pygmentsstyle: monokai
 metaDataFormat: yaml
 module:
   imports:
-  - path: github.com/forestryio/hugo-theme-novela
+  - path: hugo-theme-novela
 paginate: 6
 social:
   twitter: "#"
