@@ -1,17 +1,9 @@
 ---
 title: Alex Dapunt
-bio: The man
-avatar: "/images/brad-tiller.jpg"
+bio: The man dating the woman behind this blog
+avatar: "/images/1618651995910-3.jpeg"
 social:
-- title: github
-  url: https://github.com
-- title: github
-  url: https://github.com
-- title: github
-  url: https://github.com
-- title: github
-  url: https://github.com
-- title: github
-  url: https://github.com
+- title: Instagram
+  url: https://www.instagram.com/alexdapunt/
 
 ---
