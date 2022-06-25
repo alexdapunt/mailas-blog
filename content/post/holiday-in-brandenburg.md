@@ -5,7 +5,6 @@ title: 'Holiday in Brandenburg '
 excerpt: ''
 date: 
 hero: ''
-draft: true
 
 ---
 # 
