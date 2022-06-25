@@ -41,6 +41,7 @@ fields:
   default: []
   label: Authors
 pages:
+- content/post/catamaran-eolien-island.md
 - content/post/farore.md
 - content/post/holiday-in-brandenburg.md
 - content/post/peru.md
