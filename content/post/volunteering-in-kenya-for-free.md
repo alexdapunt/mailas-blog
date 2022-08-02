@@ -26,7 +26,7 @@ I decided to go and work for an orphanage, but it could be things like cleaning 
 
 ### 2. Research on Google and make a list
 
-Just Google the place you are looking for where you want to go, for example I searched for _Orphange in Kenya_. The results are quite extensive
+Just google the place you are looking for where you want to go, for example I searched for _Orphange in Kenya_. The results are quite extensive
 
 ### 3. Prepare an email and contact many of them
 
