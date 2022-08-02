@@ -4,7 +4,7 @@ authors: []
 title: 'Countryside gateway from Berlin '
 excerpt: ''
 date: 
-hero: ''
+hero: "/images/download.png"
 
 ---
 Brandenburg can offer many sights to enjoy a day or a weekend in the nature, exploring the Brandenburg region and the local food
