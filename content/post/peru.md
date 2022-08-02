@@ -28,7 +28,7 @@ Find an accommodation in Miraflores or Barranco area
 
 ### Day 2-3 Huachacina
 
-Take a bus from Lima to Ica and then a taxi or a Tuk Tuk to in around 10 minutes to Huachachina desert oasis, it will take 10 min.
+Take a bus from Lima to Ica and then a taxi or a Tuk Tuk to arrive in around 10 minutes to Huachachina desert oasis
 
 I recommend sleeping in Huachachina, there are different hotels, we choose to stay in the camping
 
