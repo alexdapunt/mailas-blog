@@ -22,36 +22,36 @@ That is how I went to work for free for a month in an orphanage in Kenya.
 
 I decided to go and work for an orphanage, but it could be things like cleaning the seabed, rescuing animals or empowering women
 
-### 2. Research on Google and make a list 
+### 2. Research on Google and make a list
 
 Just Google the place you are looking for where you want to go, for example I searched for _Orphange in Kenya_. The results are quite extensive
 
-### 3. Prepare an email and contact many of them 
+### 3. Prepare an email and contact many of them
 
 Prepare an e-mail introducing yourself and ask if they are looking for a volunteer and your reason for contacting them
 
-### 3. Choose the one 
+### 3. Choose the one
 
-The response rate was very high and it was really difficult to choose just one. 
+The response rate was very high and it was really difficult to choose just one.
 
 Usually they only ask you to pay a small amount for meals and accommodation, I paid around 300 euros for the whole month
 
-### 4. Depending on the country ask for a sponsor letter 
+### 4. Depending on the country ask for a sponsor letter
 
 I need a sponsorship letter for the VISA in Kenya
 
-### 5. Secure the tickets  
+### 5. Secure the tickets
 
-And arrange with them the arriving 
+And arrange with them the arriving
 
-### 6. Go and enjoy the experience 
+### 6. Go and enjoy the experience
 
-It will change your life 
+It will change your life
 
-**OTHER TIPS** 
+**OTHER TIPS**
 
 * Open a funding campaign among colleagues, family and friends: we raised over 2,000 euros before we left and it was a fantastic gift for the children.
-* Take your time also to travel around and explore the area and the culture you are travelling to 
-* There are also option like [https://www.workaway.info/](https://www.workaway.info/ "Work Away") 
+* Take your time also to travel around and explore the area and the culture you are travelling to
+* There are also option like [https://www.workaway.info/](https://www.workaway.info/ "Work Away")
 
-[whatsapp-video-2022-08-02-at-17-55-47.mp4](/images/whatsapp-video-2022-08-02-at-17-55-47.mp4 "whatsapp-video-2022-08-02-at-17-55-47.mp4")
+VIDEO E FOTO
