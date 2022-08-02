@@ -7,8 +7,6 @@ date:
 hero: ''
 
 ---
-# Countryside gateway from Berlin
-
 Brandenburg can offer many sights to enjoy a day or a weekend in the nature, exploring the Brandenburg region and the local food
 
 **The easiest way to reach all of these places is by car or by renting a car.** Brandenburg is the state that surrounds Berlin. Although Brandenburg is a state close to Berlin, the region is relatively sparsely populated.
