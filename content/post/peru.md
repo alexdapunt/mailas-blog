@@ -10,7 +10,7 @@ hero: "/images/willian-justen-de-vasconcellos-4hmet7vytaq-unsplash.jpg"
 ---
 # How to see all the main spots in 2 weeks
 
-**A Complete Backpacking Travel Guide if you have a fixed timeline** 
+**A Complete Backpacking Travel Guide if you have a fixed timeline**
 
 If you are short on time and don't want to miss any of the main attractions, follow this guide.
 
@@ -20,7 +20,9 @@ P.S not suitable for those who like to travel in comfort
 
 Arrive in Lima, honestly there is not much to see in the city. One day is more than enough time to get a feel for the city and start tasting the delicious Peruvian food. Some of the best restaurants in South America are right here!
 
-NOTE stay and get lost in miraflores or barranco area
+                     ![Malecón de Miraflores](/images/jacques-pique-1c5jvbomg0g-unsplash.jpg)
+
+NOTE Find an accommodation in Miraflores or Barranco area
 
 ### Day 2-3 Huachacina
 
