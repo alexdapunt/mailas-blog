@@ -44,7 +44,7 @@ Usually they only ask you to pay a small amount for meals and accommodation, I p
 
 ### 4. Depending on the country ask for a sponsor letter
 
-I need a sponsorship letter for the VISA in Kenya
+This depends on the country and the passport. For example, I needed a sponsorship letter for my visa in Kenya. Remember to check and ask for it in your email if necessary.
 
 ![](/images/img_dc6d08a1b86b-1.JPG)
 
@@ -58,7 +58,7 @@ It will change your life!
 
 ![](/images/img_9406-2-copy.png)
 
-**OTHER TIPS**
+### Other tips 
 
 * Open a funding campaign among colleagues, family and friends on GoFundMe: we raised over 2,000 euros and it was a fantastic gift for the children.
 * Also take time to get around and explore the area and culture in which you are travelling
