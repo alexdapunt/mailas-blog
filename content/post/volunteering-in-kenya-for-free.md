@@ -1,7 +1,7 @@
 ---
 timeToRead: 0
 authors: []
-title: 'Volunteering in Kenya on a budget (no association needed) '
+title: 'Volunteering on a budget (no association needed) '
 excerpt: ''
 date: 
 hero: ''
