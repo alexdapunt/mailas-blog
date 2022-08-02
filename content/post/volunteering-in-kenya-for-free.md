@@ -4,7 +4,7 @@ authors: []
 title: 'Volunteering on a budget (no association needed) '
 excerpt: ''
 date: 
-hero: ''
+hero: "/images/_dsc4727.JPG"
 draft: true
 
 ---
@@ -12,7 +12,7 @@ A volunteering trip abroad can be the experience of a lifetime. The benefits of 
 
 Many associations, in fact, charge a fee to cover the cost of the experience.
 
-This is a guide on how I managed to go without spending anything beyond beyond accommodation and meals.
+This is a guide on how I managed to go working for an orphanage in Kenya without spending anything beyond beyond accommodation and meals.
 
 ## Can I Volunteer Abroad for Free?
 
