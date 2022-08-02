@@ -7,11 +7,13 @@ date:
 hero: "/images/brandenburg-germany.jpg"
 
 ---
-Brandenburg can offer many sights to enjoy a day or a weekend in the nature, exploring the Brandenburg region and the local food
+Brandenburg is the state surrounding Berlin. Although it is a state close to Berlin, the region is relatively sparsely populated.
 
-**The easiest way to reach all of these places is by car or by renting a car.** Brandenburg is the state that surrounds Berlin. Although Brandenburg is a state close to Berlin, the region is relatively sparsely populated.
+Brandenburg can offer many attractions to enjoy a day or weekend in nature, exploring the forests, lakes and local food.
 
-Here there is a selection of holiday home in Brandenburg suitable for a day, a weekend or a holiday in peace surrounded by nature.
+**The easiest way to reach all these places is by car or by renting a car.**
+
+Here is a selection of holiday homes in Brandenburg suitable for a day, a weekend or a peaceful holiday surrounded by nature.
 
 ### 1. Forsthaus Strelitz
 
@@ -30,41 +32,47 @@ If you decide to stay overnight, in addition to the regional food, you can enjoy
 
 This place is absolutely beautiful and perfect for relaxing.
 
-With the nice weather invites you can swim in the pool or play on the tennis court.
+The beautiful summer weather invites you to swim in the pool. play on the tennis court or enjoy the sauna free of charge
 
-The pool is open seasonally (June - September), the sauna and the tennis court are all free of charge
+The pool is open seasonally (June-September), 
 
-There are also plenty of activity to do in the beautiful Uckermark, like hiking or cycling. Ask them for tips!
+There are also many activities to do in the beautiful Uckermark, such as hiking and cycling. Ask them for advice!
 
-###### [https://gutshof-fredenwalde.de/ueber-uns/](https://gutshof-fredenwalde.de/ueber-uns/ "https://gutshof-fredenwalde.de/ueber-uns/")
-
+* **Link:** [https://gutshof-fredenwalde.de/ueber-uns/](https://gutshof-fredenwalde.de "https://gutshof-fredenwalde.de")
 * **Distance from Berlin:** 90 kilometers
 * **Travel time:** 1.17 hour each way
 * **Reach by:** Car
 * **Public transportation:** Possibile with many changes with buses, not recommended
 
+![](/images/1-fredenwalde_09-20_dji_0720-570x570.jpg)
+
 ### 3. Restaurant GAIA
 
 GAIA is an ongoing culinary collaboration between Julia Heifer and Zsuzsanna Toth based in Berlin and Brandenburg working with organic garden production
 
-The closest train station is "Wilmersdorf (bei Angermünde)", it is approached by the RE3 and is approx. 12km away from Gerswalde.
+Reservation in advance needed and opened only Friday-Sunday in the summer time 
 
-Reservation in advance needed
+Perfect for a lunch outside of the city for fresh and local plates. The trip to the Uckermark is also worthwhile for the delicious natural wines.
 
-[https://gaia-feed.de/](https://gaia-feed.de/ "https://gaia-feed.de/")
+* **Link:** [https://gaia-feed.de/](https://gaia-feed.de/ "https://gaia-feed.de/")
+* **Distance from Berlin:** 100 kilometers
+* **Travel time:** 1.20 hour each way
+* **Reach by:** Car
+* **Public transportation:** The closest train station is "Wilmersdorf (bei Angermünde)", it is approached by the RE3 and is approx. 12km away from Gerswalde.
 
 ![](/images/gaia_2_dontuse_option-1_in.jpg)
 
 ### 4. Ferienhaus Weidemeier
 
-Here you can enjoy your time off with the Weidemeiers. They have 3 apartment and the possibility during summer to enjoy the outdoor pool or the barbecure
+Here you can enjoy your free time with the Weidemeiers family. They have 3 flats and in summer you can use the outdoor swimming pool or barbecue facilities.
 
-Prenzlau area is really easy to explore by bike and only far 1.5 km
+The Prenzlau area is easy to explore by bicycle and is only 1.5 km from the house.
 
-Ukersee by boat 2.5 km to Unteruckersee
+The Unteruckersee offers boat activities and is only 2.5 km away.
 
-[https://www.ferienhaus-weidemeier.de/infoseite/](https://www.ferienhaus-weidemeier.de/infoseite/ "https://www.ferienhaus-weidemeier.de/infoseite/")
-
+* **Link** [https://www.ferienhaus-weidemeier.de/infoseite/](https://www.ferienhaus-weidemeier.de/infoseite/ "https://www.ferienhaus-weidemeier.de/infoseite/")
 * **Distance from Berlin:** 112 kilometers
 * **Travel time:** 1.31 hour each way
 * **Public transportation:** You can arrive in Prezlau with the ICE and take a bus
+
+  ![](/images/ferienhaus-weidemeier56-scaled.jpg)
