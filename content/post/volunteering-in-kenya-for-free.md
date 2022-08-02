@@ -16,7 +16,7 @@ This is a guide on how I managed to go working for an orphanage in Kenya without
 
 ## Can I Volunteer Abroad for Free?
 
-That is how I went to work for free for a month in an orphanage in Kenya.
+Follow the steps!
 
 ### 1. Choose the destination and the cause you want to embrace
 
