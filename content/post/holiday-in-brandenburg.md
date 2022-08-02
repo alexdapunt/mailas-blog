@@ -91,12 +91,23 @@ They have suggestions for different type of activity
 
 ### 5.Fontana Therme 
 
-Fontana Therme is the certified mineral spa of Brandenburg. 
+Fontana Therme is Brandenburg's certified mineral spa. 
 
-Great idea to escape busy Berlin for a day and just relax. Easily reachable by public transportation, the train station is just 10 minutes away walking.
+A great idea to escape from hectic Berlin for a day and relax. Easily accessible by public transport as the train station is only a 10-minute walk away.
 
-All facilities are very nice, pool and sauna and steam baths 
+All the facilities are very nice: swimming pool, sauna and steam baths. The sauna on the floating lake is definitely the highlight.
 
-* **Link** 
-* **Distance from Berlin:** 112 kilometers
-* **Travel time:** 1.31 hour each way
+You can plan a day trip or stay overnight, they have several room and flat options.
+
+* **Link:** [https://www.resort-mark-brandenburg.de/en/fontane-therme/](https://www.resort-mark-brandenburg.de/en/fontane-therme/ "https://www.resort-mark-brandenburg.de/en/fontane-therme/")
+* **Distance from Berlin:** 80 kilometers
+* **Travel time:** 1.19 hour each way
+* **Reach by:** Car or Public Transportation
+* **Public transportation:** RE6 for Neuruppin Rheinsberger Tor
+
+### 5.Other links and ideas 
+
+* Coworking space: [https://www.coworking-im-schloss.de/coworking/](https://www.coworking-im-schloss.de/coworking/ "https://www.coworking-im-schloss.de/coworking/")
+* You can just google **Ferienhaus Brandenburg** and different option will came out: [https://www.ferienhausmiete.de/ferienwohnung-ferienhaus-urlaub/brandenburg/r340](https://www.ferienhausmiete.de/ferienwohnung-ferienhaus-urlaub/brandenburg/r340 "https://www.ferienhausmiete.de/ferienwohnung-ferienhaus-urlaub/brandenburg/r340")
+* Suitable for corporate retreats: [https://www.gutshaus-rensow.de/das-gutshaus](https://www.gutshaus-rensow.de/das-gutshaus "https://www.gutshaus-rensow.de/das-gutshaus")
+* Explore the airbnb in the area 
