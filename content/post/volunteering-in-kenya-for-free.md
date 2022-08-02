@@ -28,6 +28,8 @@ I decided to go and work for an orphanage, but it could be things like cleaning 
 
 Just google the place you are looking for where you want to go, for example I searched for _Orphange in Kenya_. The results are quite extensive
 
+![](/images/screenshot-2022-08-02-at-23-08-02.png)
+
 ### 3. Prepare an email and contact many of them
 
 Prepare an e-mail introducing yourself and ask if they are looking for a volunteer and your reason for contacting them
@@ -61,4 +63,6 @@ It will change your life!
 * Open a funding campaign among colleagues, family and friends on GoFundMe: we raised over 2,000 euros and it was a fantastic gift for the children.
 * Also take time to get around and explore the area and culture in which you are travelling
 * To travel and do social work there are also website like  [https://www.workaway.info/](https://www.workaway.info/ "Work Away")
-* If you don't feel safe always rely on a professional non-profit organisation![](/images/_dsc6420.JPG)
+* If you don't feel safe always rely on a professional non-profit organisation
+
+![](/images/_dsc6420.JPG)
