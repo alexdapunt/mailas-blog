@@ -3,7 +3,7 @@ timeToRead: 8
 authors: []
 title: 'Volunteering on a budget (no association needed) '
 excerpt: ''
-date: 
+date: 2022-08-01T22:00:00+00:00
 hero: "/images/_dsc4727.JPG"
 draft: true
 
