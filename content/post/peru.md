@@ -141,16 +141,14 @@ Try the Nikkei food is a delicious combination of both Japanese and Peruvian ing
 * If you only want to go to Machuu Pichuu and avoid the trek, buy your tickets in advance on the official website, making sure to buy the right path, the famous photo point from the top is on path 3.
 * To travel lighter, you can keep booked your hotel room or ask the hotel in Cusco to keep your luggage when on your way to the Inca Trail or Machu Picchu 
 
->     Do you want a tailor made travel plan? 
+## 
+
+> ## **Do you want a tailor made travel plan?** 
 >
->     You don't have time to organise your own trips? 
+> ## **You don't have time to organise your own trips?** 
 >
->     I can take care of it
+> ## **I can take care of it**
 
-I can design your travel itinerary optimising time and money
-
-Just tell me your interests, wishes and dates. I will create a detailed plan and map for your travels.
-
-The cost is only 20EUR per plan
+I can design your travel itinerary optimising time and money. Just tell me your interests, wishes and dates. I will create a detailed plan and map for your travels. **The cost is only 20EUR per plan**
 
 Contact me at contact@mygotoblog.com with all the details 
