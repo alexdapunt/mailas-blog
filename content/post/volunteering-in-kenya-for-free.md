@@ -22,6 +22,8 @@ That is how I went to work for free for a month in an orphanage in Kenya.
 
 I decided to go and work for an orphanage, but it could be things like cleaning the seabed, rescuing animals or empowering women
 
+![](/images/_dsc4616.JPG)
+
 ### 2. Research on Google and make a list
 
 Just Google the place you are looking for where you want to go, for example I searched for _Orphange in Kenya_. The results are quite extensive
@@ -29,6 +31,8 @@ Just Google the place you are looking for where you want to go, for example I se
 ### 3. Prepare an email and contact many of them
 
 Prepare an e-mail introducing yourself and ask if they are looking for a volunteer and your reason for contacting them
+
+![](/images/_dsc4909.JPG)
 
 ### 3. Choose the one
 
@@ -40,18 +44,21 @@ Usually they only ask you to pay a small amount for meals and accommodation, I p
 
 I need a sponsorship letter for the VISA in Kenya
 
+![](/images/img_dc6d08a1b86b-1.JPG)
+
 ### 5. Secure the tickets
 
-And arrange with them the arriving
+And arrange with the hosting place the arriving
 
 ### 6. Go and enjoy the experience
 
-It will change your life
+It will change your life!
+
+![](/images/img_9406-2-copy.png)
 
 **OTHER TIPS**
 
-* Open a funding campaign among colleagues, family and friends: we raised over 2,000 euros before we left and it was a fantastic gift for the children.
-* Take your time also to travel around and explore the area and the culture you are travelling to
-* There are also option like [https://www.workaway.info/](https://www.workaway.info/ "Work Away")
-
-VIDEO E FOTO
+* Open a funding campaign among colleagues, family and friends on GoFundMe: we raised over 2,000 euros and it was a fantastic gift for the children.
+* Also take time to get around and explore the area and culture in which you are travelling
+* To travel and do social work there are also website like  [https://www.workaway.info/](https://www.workaway.info/ "Work Away")
+* If you don't feel safe always rely on a professional non-profit organisation![](/images/_dsc6420.JPG)
