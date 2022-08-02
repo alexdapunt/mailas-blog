@@ -97,12 +97,12 @@ Go back to Lima to catch the return flight and maybe try their amazing nikkei fo
 * If you only wanna go tu Machuu Pichuu and avoid the trekking buy the tickets in advance at the official website, pay attention to buy the right path, the famous spot for the photo from above is on the path 3 
 * To travel lighter you can keep your hotel room or ask in the hotel in Cusco while going to the inca trail or Machu Picchu to keep your luggage  
 
-> #### **Do you want a tailor made travel plan? You don't have time to organise your own trips? I can take care of it** 
->
-> I can design your travel itinerary optimising time and money as I do for myself. 
->
-> Simply explain your interests, desires to me and dates. I will create a detailed programme and a map for your travels.
->
-> **The cost is only 20EUR per plan**
->
-> Contact me by writing to hello@maila.com with all the details 
+#### **Do you want a tailor made travel plan? You don't have time to organise your own trips? I can take care of it** 
+
+I can design your travel itinerary optimising time and money as I do for myself. 
+
+Simply explain your interests, desires to me and dates. I will create a detailed programme and a map for your travels.
+
+**The cost is only 20EUR per plan**
+
+Contact me by writing to hello@maila.com with all the details 
