@@ -15,15 +15,16 @@ Here there is a selection of holiday home in Brandenburg suitable for a day, a w
 
 ### 1. Forsthaus Strelitz
 
-Food and the surrounding are wonderful at Forsthaus Streliz.
+The food and surroundings are wonderful at the Forsthaus Streliz.
 
-Other than the regional food you can enjoy the peace and outdoor activity as cycling or running if you decide to stay overnight
+If you decide to stay overnight, in addition to the regional food, you can enjoy the peace and different outdoor activities, such as cycling or hiking.
 
-###### [https://forsthaus-strelitz.de/](https://forsthaus-strelitz.de/ "https://forsthaus-strelitz.de/")
-
+* **Link**: [https://forsthaus-strelitz.de/](https://forsthaus-strelitz.de/ "https://forsthaus-strelitz.de/")
 * **Distance from Berlin:** 89 kilometers (22 miles)
 * **Travel time:** 1.43 hour each way
 * **Reach by:** Car
+
+![](/images/img_5640.jpg)
 
 ### 3. Gusthof Fredenwalde
 
@@ -67,28 +68,3 @@ Ukersee by boat 2.5 km to Unteruckersee
 * **Distance from Berlin:** 112 kilometers
 * **Travel time:** 1.31 hour each way
 * **Public transportation:** You can arrive in Prezlau with the ICE and take a bus
-
-### 4. Urlaub an der Seenplatte
-
-A beautiful house with clear architecture.
-
-In the areas there are countless lead, meadows and forest waiting to be discovered. It is indeed an optimal starting points from hikes, bike tours or canoe 
-
-[https://urlaub-an-der-seenplatte.com/](https://urlaub-an-der-seenplatte.com/ "https://urlaub-an-der-seenplatte.com/")
-
-* **Distance from Berlin:** 110 kilometers
-* **Travel time:** 1.31 hour each way
-
-### 4. Fontane Therme 
-
-[https://www.resort-mark-brandenburg.de/en/fontane-therme/](https://www.resort-mark-brandenburg.de/en/fontane-therme/ "https://www.resort-mark-brandenburg.de/en/fontane-therme/")
-
-### 4. Other links and tips 
-
-[https://www.gutshaus-rensow.de/das-gutshaus](https://www.gutshaus-rensow.de/das-gutshaus "https://www.gutshaus-rensow.de/das-gutshaus")
-
-[http://www.gutshaus-kobrow.de/](http://www.gutshaus-kobrow.de/ "http://www.gutshaus-kobrow.de/")
-
-You can google ferienhaus brandenburg and plenty of option will come out 
-
-Beautiful Thereme
