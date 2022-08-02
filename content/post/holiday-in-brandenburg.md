@@ -75,4 +75,28 @@ The Unteruckersee offers boat activities and is only 2.5 km away.
 * **Travel time:** 1.31 hour each way
 * **Public transportation:** You can arrive in Prezlau with the ICE and take a bus
 
-  ![](/images/ferienhaus-weidemeier56-scaled.jpg)
+![](/images/ferienhaus-weidemeier56-scaled.jpg)
+
+### 5.Urlaub an der Seenplatte
+
+Enjoy your free time in a modern holiday home in the heart of the Mecklenburg Lake, the largest contiguous lake area in Central Europe
+
+The house it is an amazing starting point for hikes, bike tours and canoe tours on countless interconnected lakes
+
+They have suggestions for different type of activity 
+
+* **Link**  [https://urlaub-an-der-seenplatte.com/?page_id=382](https://urlaub-an-der-seenplatte.com/?page_id=382 "https://urlaub-an-der-seenplatte.com/?page_id=382")
+* **Distance from Berlin:** 112 kilometers
+* **Travel time:** 1.31 hour each way
+
+### 5.Fontana Therme 
+
+Fontana Therme is the certified mineral spa of Brandenburg. 
+
+Great idea to escape busy Berlin for a day and just relax. Easily reachable by public transportation, the train station is just 10 minutes away walking.
+
+All facilities are very nice, pool and sauna and steam baths 
+
+* **Link** 
+* **Distance from Berlin:** 112 kilometers
+* **Travel time:** 1.31 hour each way
