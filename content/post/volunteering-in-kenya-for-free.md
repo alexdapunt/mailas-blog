@@ -1,5 +1,5 @@
 ---
-timeToRead: 0
+timeToRead: 8
 authors: []
 title: 'Volunteering on a budget (no association needed) '
 excerpt: ''
