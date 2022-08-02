@@ -12,7 +12,7 @@ A volunteering trip abroad can be the experience of a lifetime. The benefits of 
 
 Many associations in fact ask for a fee to cover the cost of the experience.
 
-This is the guide on how we managed to go without spending anything more than accommodation and food
+This is the guide on how I managed to go without spending anything more than accommodation and food
 
 ## Can I Volunteer Abroad for Free?
 
