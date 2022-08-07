@@ -1,7 +1,7 @@
 ---
-baseURL: https://example.com
+baseURL: https://mygotoblog.com
 languageCode: en-us
-title: Mailas Blog
+title: My Go To Blog
 pygmentsstyle: monokai
 metaDataFormat: yaml
 module:
