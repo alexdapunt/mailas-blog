@@ -4,7 +4,7 @@ authors: []
 title: 'Countryside gateway from Berlin '
 excerpt: ''
 date: 
-hero: "/images/brandenburg-germany.jpg"
+hero: "/images/jack-b-gtdz6xsqt70-unsplash.jpg"
 
 ---
 Brandenburg is the state surrounding Berlin. Although it is a state close to Berlin, the region is relatively sparsely populated.
