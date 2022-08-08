@@ -29,7 +29,7 @@ Find an accommodation in Miraflores or Barranco area
 
 Take a bus from Lima to Ica and then a taxi or a Tuk Tuk to arrive in around 10 minutes to Huacachina desert oasis
 
-I recommend sleeping in Huacachina if you have time, there are different hotels, we choose to stay in the camping [http://www.booking.com/Share-z0Td1J](http://www.booking.com/Share-z0Td1J "Ecocamp Huachachina ")
+I recommend sleeping in Huacachina if you have time, there are different hotels, we choose to stay in the camping [Ecocamp Huachachina](http://www.booking.com/Share-z0Td1J "Ecocamp Huachachina")
 
 ![](/images/willian-justen-de-vasconcellos-hflyduepgyc-unsplash.jpg)
 
@@ -113,7 +113,7 @@ Internal flights are very cheap, we paid around 50EUR round trip from Cusco to I
 
 ### Day 14-15-16 Peruvian Amazon forest
 
-Book a lounge in one of the many tribal villages in the forest and enjoy life in the jungle. We found an amazing [https://abnb.me/EWIf3J4dksb](https://abnb.me/EWIf3J4dksb "Airbnb") with a local family in the middle of the jungle, only reachable waking 1h
+Book a lounge in one of the many tribal villages in the forest and enjoy life in the jungle. We found an amazing [Airbnb](https://abnb.me/EWIf3J4dksb "Airbnb") with a local family in the middle of the jungle, only reachable waking 1h
 
 ![](/images/jose-angel-rios-avu73-irvwu-unsplash.jpg)
 
@@ -133,7 +133,7 @@ Try the Nikkei food is a delicious combination of both Japanese and Peruvian ing
 
 ### Other Recommendations
 
-* You can follow my [https://www.google.com/maps/placelists/list/RmhzdUEzT5OckD1M7YQv4Q](https://www.google.com/maps/placelists/list/RmhzdUEzT5OckD1M7YQv4Q "Google Maps") with places to see and restaurants
+* You can follow my saved [Google Maps](https://www.google.com/maps/placelists/list/RmhzdUEzT5OckD1M7YQv4Q ) with places to see and restaurants
 * If you are planning to do the inca trail trek I can only recommend Miguel and his team: [https://www.cuscojourneys.com/](https://www.cuscojourneys.com/ "https://www.cuscojourneys.com/")
 * Try to go easy on the altitude and avoid flying directly to Cuzsco from Lima, you will feel it.
 * You can buy bus tickets directly at the different bus stations, the most recommended companies for tourists are cruzdelsur and Civa I travelled with several unknown companies and never felt unsafe, but you can notice a higher quality in CruzDelSur buses
