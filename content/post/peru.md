@@ -1,7 +1,6 @@
 ---
 timeToRead: 10
-authors:
-- Maila Varraso
+authors: []
 title: Peru
 excerpt: Peru travel tips
 date: 2022-05-31T22:00:00+00:00
@@ -78,13 +77,13 @@ The city is really touristic but take the time to get use the altiudine and get 
 
 Former capital city of the Incas, Cusco is the starting point for all the excursions
 
-                  ![](/images/joe-green-nsy6ztjk5hm-unsplash.jpg) 
+![](/images/joe-green-nsy6ztjk5hm-unsplash.jpg)
 
 ### Day 10-11 The inca trail to Machu Pitch
 
 It also known as _Camino Inca._ I highly recommend to do this famous hiking that terminates at Machu Picchu.Trekkers normally take four or five days to complete the "Classic Inca Trail" but a two-day trek from Km 104 is also possible.
 
-It is an incredible and amazing combination of incas ruins, mountain landscapes and jungles in the region.
+It is an incredible and amazing combination of incas ruins, mountain landscapes and jungles.
 
 ![](/images/hoach-le-dinh-gzeupbjotua-unsplash.jpg)
 
@@ -92,17 +91,17 @@ It is an incredible and amazing combination of incas ruins, mountain landscapes 
 
 * You cannot hike the Inca Trail without a professional guide and all the necessary permits, there are several gates where it is checked (don't forget your passport)
 * If you do not feel sporty enough, you can take a train from Cusco that will take you directly to Ollatatainbo to visit only Machu Picchu.
-* If you have time you can also add the Maras Salt Mines or the Humantay Lake
+* If you have time you can also add the Maras Salt Mines or the Humantay Lake in the area 
 
 ### Day 12 Rainbow Mountain
 
-It will take some time to get there (about 2 hours), but it is possible to organise a day trip to Rainbow Mountain from Cusco and it is definitely worth it. There is no need to book in advance online, there are many local travel agencies to choose from.
+It will take some time to get there (about 2 hours), but it is possible to organise a day trip to Rainbow Mountain from Cusco and it is definitely worth it. There is no need to book in advance online, there are many local travel agencies to choose from once there.
 
 ![](/images/mckayla-crump-hjanvzlqob8-unsplash.jpg)
 
 **Note**
 
-Be careful because you touch more than 5000 metres above sea level and the walk is very strenuous
+Be careful because you get to an altitude of over 5,000 meters and the hike is very strenuous.
 
 ### Day 13 Iquitos
 
@@ -114,33 +113,32 @@ Internal flights are very cheap, we paid around 50EUR round trip from Cusco to I
 
 ### Day 14-15-16 Peruvian Amazon forest
 
-Book a lounge in one of the many tribal villages in the forest and enjoy life in the jungle
+Book a lounge in one of the many tribal villages in the forest and enjoy life in the jungle. We found an amazing [https://abnb.me/EWIf3J4dksb](https://abnb.me/EWIf3J4dksb "Airbnb") with a local family in the middle of the jungle, only reachable waking 1h
 
 ![](/images/jose-angel-rios-avu73-irvwu-unsplash.jpg)
 
 **Note**
 
-Drop me a message if you are interested to get in touch with a Shaman
+Drop me a message if you are interested to get in touch with a Shaman for trying some of the aborigine rituals
 
 ### Day 17 Lima
 
-Go back to Lima to catch the return flight and maybe take some time to explore the area you missed in the first day
+Go back to Lima to catch the return flight and maybe take some time to explore the highlight you missed in the first day
 
 ![](/images/willian-justen-de-vasconcellos-mzkeirbstv4-unsplash.jpg)
 
-Note
+**Note**
 
 Try the Nikkei food is a delicious combination of both Japanese and Peruvian ingredients – a cooking style which dates back to the turn of the century -and has influenced chefs everywhere.
 
 ### Other Recommendations
 
-* You can follow my Goole maps with places to see and restaurants saved
+* You can follow my [https://www.google.com/maps/placelists/list/RmhzdUEzT5OckD1M7YQv4Q](https://www.google.com/maps/placelists/list/RmhzdUEzT5OckD1M7YQv4Q "Google Maps") with places to see and restaurants  
 * If you are planning to do the inca trail trek I can only recommend Miguel and his team: [https://www.cuscojourneys.com/](https://www.cuscojourneys.com/ "https://www.cuscojourneys.com/")
-* Booking affiliate link
 * Try to go easy on the altitude and avoid flying directly to Cuzsco from Lima, you will feel it.
 * You can buy bus tickets directly at the different bus stations, the most recommended companies for tourists are cruzdelsur and Civa I travelled with several unknown companies and never felt unsafe, but you can notice a higher quality in CruzDelSur buses
 * Drink as many Pisco Sour as you can
-* If you only want to go to Machuu Pichuu and avoid the trek, buy your tickets in advance on the official website, making sure to buy the right path, the famous photo point from the top is on path 3.
+* If you only want to go to Machuu Pichuu and avoid the trek, buy your tickets in advance on the official website, making sure to buy the right path, the famous photo point from the top is on the path 3.
 * To travel lighter, you can keep booked your hotel room or ask the hotel in Cusco to keep your luggage when on your way to the Inca Trail or Machu Picchu
 
 ## 
@@ -153,4 +151,4 @@ Try the Nikkei food is a delicious combination of both Japanese and Peruvian ing
 
 I can design your travel itinerary optimising time and money. Just tell me your interests, wishes and dates. I will create a detailed plan and map for your travels. **The cost is only 20EUR per plan**
 
-Contact me at contact@mygotoblog.com with all the details
+Contact me at maila.varraso@gmail.com with all the details
