@@ -151,4 +151,4 @@ Try the Nikkei food is a delicious combination of both Japanese and Peruvian ing
 
 I can design your travel itinerary optimising time and money. Just tell me your interests, wishes and dates. I will create a detailed plan and map for your travels. **The cost is only 20EUR per plan**
 
-Contact me at maila.varraso@gmail.com with all the details
+Contact me at [maila.varraso@gmail.com](maila.varraso@gmail.com) with all the details

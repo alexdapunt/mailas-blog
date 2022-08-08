@@ -13,7 +13,7 @@ Brandenburg can offer many attractions to enjoy a day or weekend in nature, expl
 
 **The easiest way to reach all these places is by car or by renting a car.**
 
-If you are planning to rent a cant I can only recommend the service of [https://www.discovercars.com/?a_aid=mailavarraso](https://www.discovercars.com/?a_aid=mailavarraso "discovercars ")
+If you are planning to rent a cant I can only recommend the service of [DiscoverCars]( https://www.discovercars.com/?a_aid=mailavarraso)
 
 Here is a selection of holiday homes in Brandenburg suitable for a day, a weekend or a peaceful holiday surrounded by nature.
 
