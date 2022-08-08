@@ -37,7 +37,7 @@ I recommend sleeping in Huacachina if you have time, there are different hotels,
 
 You can add a stop and day in Paracas before going to Huacachina and exploring the Ballestas Islands, the bus stops directly in Paracas from Lima.
 
-The hotel in Huacachina can arrange all desert adventures such as Dune Buggy, sandboarding, sunset etc, otherwise there are plenty of options online 
+The hotel in Huacachina can arrange all desert adventures such as Dune Buggy, sandboarding, sunset etc, otherwise there are plenty of options online
 
 ### Day 4 Nazca lines
 
@@ -45,7 +45,7 @@ Stop in Nazca to explore the famous and mysterious lines, a group of geoglyphs, 
 
 From Nazca catch a night bus for Arequipa to save some times
 
-                   ![](/images/seiji-seiji-ssq2ojkm88k-unsplash.jpg)
+![](/images/marco-topete-_51fakgg5l4-unsplash.jpg)
 
 ### Day 5-6 Arequipa
 
@@ -77,7 +77,7 @@ The city is really touristic but take the time to get use the altiudine and get 
 
 Former capital city of the Incas, Cusco is the starting point for all the excursions
 
-![](/images/joe-green-nsy6ztjk5hm-unsplash.jpg)
+![](/images/stefano-garay-rxi5k95ttq-unsplash.jpg)
 
 ### Day 10-11 The inca trail to Machu Pitch
 
@@ -91,7 +91,7 @@ It is an incredible and amazing combination of incas ruins, mountain landscapes 
 
 * You cannot hike the Inca Trail without a professional guide and all the necessary permits, there are several gates where it is checked (don't forget your passport)
 * If you do not feel sporty enough, you can take a train from Cusco that will take you directly to Ollatatainbo to visit only Machu Picchu.
-* If you have time you can also add the Maras Salt Mines or the Humantay Lake in the area 
+* If you have time you can also add the Maras Salt Mines or the Humantay Lake in the area
 
 ### Day 12 Rainbow Mountain
 
@@ -133,7 +133,7 @@ Try the Nikkei food is a delicious combination of both Japanese and Peruvian ing
 
 ### Other Recommendations
 
-* You can follow my [https://www.google.com/maps/placelists/list/RmhzdUEzT5OckD1M7YQv4Q](https://www.google.com/maps/placelists/list/RmhzdUEzT5OckD1M7YQv4Q "Google Maps") with places to see and restaurants  
+* You can follow my [https://www.google.com/maps/placelists/list/RmhzdUEzT5OckD1M7YQv4Q](https://www.google.com/maps/placelists/list/RmhzdUEzT5OckD1M7YQv4Q "Google Maps") with places to see and restaurants
 * If you are planning to do the inca trail trek I can only recommend Miguel and his team: [https://www.cuscojourneys.com/](https://www.cuscojourneys.com/ "https://www.cuscojourneys.com/")
 * Try to go easy on the altitude and avoid flying directly to Cuzsco from Lima, you will feel it.
 * You can buy bus tickets directly at the different bus stations, the most recommended companies for tourists are cruzdelsur and Civa I travelled with several unknown companies and never felt unsafe, but you can notice a higher quality in CruzDelSur buses
