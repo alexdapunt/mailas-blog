@@ -89,7 +89,7 @@ They have suggestions for different type of activity
 * **Distance from Berlin:** 112 kilometers
 * **Travel time:** 1.31 hour each way
 
-                      ![](/images/mecklenburgische_seenplatte_2.jpg)
+                  
 
 ### 5.Fontana Therme
 
