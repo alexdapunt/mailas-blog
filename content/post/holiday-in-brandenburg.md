@@ -13,6 +13,8 @@ Brandenburg can offer many attractions to enjoy a day or weekend in nature, expl
 
 **The easiest way to reach all these places is by car or by renting a car.**
 
+If you are planning to rent a cant I can only recommend the service of [https://www.discovercars.com/?a_aid=mailavarraso](https://www.discovercars.com/?a_aid=mailavarraso "discovercars ")
+
 Here is a selection of holiday homes in Brandenburg suitable for a day, a weekend or a peaceful holiday surrounded by nature.
 
 ### 1. Forsthaus Strelitz
@@ -88,8 +90,6 @@ They have suggestions for different type of activity
 * **Link**  [https://urlaub-an-der-seenplatte.com/?page_id=382](https://urlaub-an-der-seenplatte.com/?page_id=382 "https://urlaub-an-der-seenplatte.com/?page_id=382")
 * **Distance from Berlin:** 112 kilometers
 * **Travel time:** 1.31 hour each way
-
-                  
 
 ### 5.Fontana Therme
 
