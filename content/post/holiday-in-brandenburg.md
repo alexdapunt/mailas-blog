@@ -34,7 +34,7 @@ This place is absolutely beautiful and perfect for relaxing.
 
 The beautiful summer weather invites you to swim in the pool. play on the tennis court or enjoy the sauna free of charge
 
-The pool is open seasonally (June-September), 
+The pool is open seasonally (June-September),
 
 There are also many activities to do in the beautiful Uckermark, such as hiking and cycling. Ask them for advice!
 
@@ -50,7 +50,7 @@ There are also many activities to do in the beautiful Uckermark, such as hiking 
 
 GAIA is an ongoing culinary collaboration between Julia Heifer and Zsuzsanna Toth based in Berlin and Brandenburg working with organic garden production
 
-Reservation in advance needed and opened only Friday-Sunday in the summer time 
+Reservation in advance needed and opened only Friday-Sunday in the summer time
 
 Perfect for a lunch outside of the city for fresh and local plates. The trip to the Uckermark is also worthwhile for the delicious natural wines.
 
@@ -83,15 +83,17 @@ Enjoy your free time in a modern holiday home in the heart of the Mecklenburg La
 
 The house it is an amazing starting point for hikes, bike tours and canoe tours on countless interconnected lakes
 
-They have suggestions for different type of activity 
+They have suggestions for different type of activity
 
 * **Link**  [https://urlaub-an-der-seenplatte.com/?page_id=382](https://urlaub-an-der-seenplatte.com/?page_id=382 "https://urlaub-an-der-seenplatte.com/?page_id=382")
 * **Distance from Berlin:** 112 kilometers
 * **Travel time:** 1.31 hour each way
 
-### 5.Fontana Therme 
+                      ![](/images/mecklenburgische_seenplatte_2.jpg)
 
-Fontana Therme is Brandenburg's certified mineral spa. 
+### 5.Fontana Therme
+
+Fontana Therme is Brandenburg's certified mineral spa.
 
 A great idea to escape from hectic Berlin for a day and relax. Easily accessible by public transport as the train station is only a 10-minute walk away.
 
@@ -105,9 +107,11 @@ You can plan a day trip or stay overnight, they have several room and flat optio
 * **Reach by:** Car or Public Transportation
 * **Public transportation:** RE6 for Neuruppin Rheinsberger Tor
 
-### 5.Other links and ideas 
+![](/images/resort-mark-brandenburg_fontane_therme_soleaussenpool_39-800x492-c-center.jpg)
 
-* Coworking space: [https://www.coworking-im-schloss.de/coworking/](https://www.coworking-im-schloss.de/coworking/ "https://www.coworking-im-schloss.de/coworking/")
+### 5.Other links and ideas
+
+* Co-working space: [https://www.coworking-im-schloss.de/coworking/](https://www.coworking-im-schloss.de/coworking/ "https://www.coworking-im-schloss.de/coworking/")
 * You can just google **Ferienhaus Brandenburg** and different option will came out: [https://www.ferienhausmiete.de/ferienwohnung-ferienhaus-urlaub/brandenburg/r340](https://www.ferienhausmiete.de/ferienwohnung-ferienhaus-urlaub/brandenburg/r340 "https://www.ferienhausmiete.de/ferienwohnung-ferienhaus-urlaub/brandenburg/r340")
 * Suitable for corporate retreats: [https://www.gutshaus-rensow.de/das-gutshaus](https://www.gutshaus-rensow.de/das-gutshaus "https://www.gutshaus-rensow.de/das-gutshaus")
-* Explore the airbnb in the area 
+* Explore the airbnb in the area
