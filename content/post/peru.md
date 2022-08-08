@@ -143,11 +143,11 @@ Try the Nikkei food is a delicious combination of both Japanese and Peruvian ing
 
 ## 
 
-> ## **Do you want a tailor made travel plan?**
+> ##### **Do you want a tailor made travel plan?**
 >
-> ## **You don't have time to organise your own trips?**
+> ##### **You don't have time to organise your own trips?**
 >
-> ## **I can take care of it**
+> ##### **I can take care of it**
 
 I can design your travel itinerary optimising time and money. Just tell me your interests, wishes and dates. I will create a detailed plan and map for your travels. **The cost is only 20EUR per plan**
 
