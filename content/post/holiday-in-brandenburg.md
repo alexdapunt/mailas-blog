@@ -2,7 +2,7 @@
 timeToRead: 8
 authors: []
 title: 'Countryside gateway from Berlin '
-excerpt: ''
+excerpt: 'Berlin '
 date: 
 hero: "/images/jack-b-gtdz6xsqt70-unsplash.jpg"
 
