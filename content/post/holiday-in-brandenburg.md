@@ -50,9 +50,9 @@ There are also many activities to do in the beautiful Uckermark, such as hiking 
 
 ### 3. Restaurant GAIA
 
-GAIA is an ongoing culinary collaboration between Julia Heifer and Zsuzsanna Toth based in Berlin and Brandenburg working with organic garden production
+GAIA is an ongoing culinary experience of two chefs working with organic garden production
 
-Reservation in advance needed and opened only Friday-Sunday in the summer time
+Reservation in advance is needed and it is opened only Friday-Sunday in the summer time
 
 Perfect for a lunch outside of the city for fresh and local plates. The trip to the Uckermark is also worthwhile for the delicious natural wines.
 
@@ -81,11 +81,11 @@ The Unteruckersee offers boat activities and is only 2.5 km away.
 
 ### 5.Urlaub an der Seenplatte
 
-Enjoy your free time in a modern holiday home in the heart of the Mecklenburg Lake, the largest contiguous lake area in Central Europe
+Here you can enjoy your time off in a modern vacation home in the heart of Lake Mecklenburg. The entire surrounding area is the largest contiguous lake area in Central Europe.
 
-The house it is an amazing starting point for hikes, bike tours and canoe tours on countless interconnected lakes
+The house it is an amazing starting point for hikes, bike tours and canoe tours. 
 
-They have suggestions for different type of activity
+They have suggestions on their website for different type of activity
 
 * **Link**  [https://urlaub-an-der-seenplatte.com/?page_id=382](https://urlaub-an-der-seenplatte.com/?page_id=382 "https://urlaub-an-der-seenplatte.com/?page_id=382")
 * **Distance from Berlin:** 112 kilometers
