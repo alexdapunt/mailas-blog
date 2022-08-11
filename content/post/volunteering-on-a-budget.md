@@ -39,7 +39,7 @@ Prepare an e-mail introducing yourself and ask if they are looking for a volunte
 
 The response rate was very high and it was really difficult to choose just one.
 
-Usually they only ask you to pay a small amount for meals and accommodation, I paid around 300 euros for the whole month
+Usually they only ask you to pay a small amount for meals and accommodation, I paid around 300 euros for the whole month (never pay in advance )
 
 ### 4. Depending on the country ask for a sponsor letter
 
@@ -57,7 +57,7 @@ It will change your life!
 
 ![](/images/img_9406-2-copy.png)
 
-### Other tips 
+### Other tips
 
 * Open a funding campaign among colleagues, family and friends on GoFundMe: we raised over 2,000 euros and it was a fantastic gift for the children.
 * Also take time to get around and explore the area and culture in which you are travelling
