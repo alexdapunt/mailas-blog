@@ -28,7 +28,7 @@ If you decide to stay overnight, in addition to the regional food, you can enjoy
 * **Travel time:** 1.43 hour each way
 * **Reach by:** Car
 
-![](/images/img_5640.jpg)
+![](/images/screenshot-2022-08-11-at-11-09-08.png)
 
 ### 3. Gusthof Fredenwalde
 
