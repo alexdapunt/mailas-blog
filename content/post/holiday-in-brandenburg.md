@@ -1,9 +1,9 @@
 ---
 timeToRead: 8
 authors: []
-title: 'Countryside gateway from Berlin '
+title: 'Countryside getaway from Berlin '
 excerpt: 'Berlin '
-date: 
+date: 2022-06-30T22:00:00+00:00
 hero: "/images/jack-b-gtdz6xsqt70-unsplash.jpg"
 
 ---
