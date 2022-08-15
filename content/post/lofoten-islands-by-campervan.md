@@ -5,6 +5,7 @@ title: 'Lofoten islands by campervan '
 excerpt: ''
 date: 
 hero: ''
+draft: true
 
 ---
 Flight options:
