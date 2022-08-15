@@ -1,13 +1,13 @@
 ---
 timeToRead: 10
 authors: []
-title: Peru
+title: 'Peru itinerary '
 excerpt: Peru travel tips
 date: 2022-05-31T22:00:00+00:00
 hero: "/images/willian-justen-de-vasconcellos-4hmet7vytaq-unsplash.jpg"
 
 ---
-# How to see all the main spots in 2 weeks
+# How to see all the main spots in a limited amount of time
 
 **A Complete Backpacking Travel Guide if you have a fixed timeline**
 
