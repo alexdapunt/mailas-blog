@@ -1,10 +1,11 @@
 ---
 timeToRead: 8
 authors: []
-title: 'Countryside getaway from Berlin '
+title: 'Countryside getaways from Berlin '
 excerpt: 'Berlin '
 date: 2022-06-30T22:00:00+00:00
 hero: "/images/jack-b-gtdz6xsqt70-unsplash.jpg"
+draft: true
 
 ---
 Brandenburg is the state surrounding Berlin. Although it is a state close to Berlin, the region is relatively sparsely populated.
