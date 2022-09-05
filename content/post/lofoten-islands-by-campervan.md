@@ -110,7 +110,7 @@ It is one of the easiest hikes in the area, but the most mentally strenuous espe
 * Munken
 * Fløya & Devil’s Gate
 
-#### What else to do in the Lofoten
+### What else to do in the Lofoten
 
 **Visit villages**
 
