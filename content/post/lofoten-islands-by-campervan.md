@@ -160,4 +160,4 @@ Don't miss the best Cinnamon bun in the Unstad Artic Surf bar and when in Reine,
 
 I can design your travel itinerary optimising time and money. Just tell me your interests, wishes and dates. I will create a detailed plan and map for your travels. **The cost is only 20EUR per plan**
 
-Contact me at [maila.varraso@gmail.com](https://www.mygotoblog.com/post/peru/maila.varraso@gmail.com) with all the details
+\-> Contact me at [maila.varraso@gmail.com](https://www.mygotoblog.com/post/peru/maila.varraso@gmail.com) with all the details
