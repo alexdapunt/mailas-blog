@@ -1,38 +1,35 @@
 ---
-timeToRead: 0
+timeToRead: 7
 authors: []
-title: 'Lofoten islands by campervan '
+title: 'Lofoten islands by campervan in summer '
 excerpt: ''
-date: 
+date: 2022-09-04T22:00:00+00:00
 hero: ''
 draft: true
 
 ---
-Flight options:
+The Lofoten island are the amazing archipelago in the north of Norway, in the **Arctic Circle**, that offers breathtaking scenery with mountain peaks over beautiful view, Arctic fjords, small fishing villages and beautiful clean water beaches.
 
-Easiest and fastes way is to fly to Svolvær airport (SVJ) you can catch a direct flight from Oslo (OSL) to Svolvær or fly to Bodø (BOO) and then to Svolvær - these flights are usually the most expensive, and are operated by [www.wideroe.no](http://www.wideroe.no/)
+**This is a unique trip: Lofoten landscapes and colours are like nowhere else in the world.**
 
-Second best option is flying to Leknes (LKN), 1 hour away from us by bus or car.
+### How to arrive there 
 
-You can reach Leknes directly from Oslo or via Bodø with [www.wideroe.no](http://www.wideroe.no/)
+1. **Fly to Svolvær**
 
-Third alternative (THIS IS USUALLY THE CHEAPEST OPTION) is a flight to Evenes (EVE). Evenes is reachable from Oslo, Stockholm (ARN) and many other desinations, and has many airlines porting, so usually many options and the cheapest options. From Evenes you can catch a 3 hour bus to Lofoten and Svolvær.
+The Easiest and fastest way is to fly to Svolvær airport (SVJ) you can catch a direct flight from Oslo (OSL) to Svolvær or fly to Bodø (BOO) and then to Svolvær - **these flights are usually the most expensive**
 
-Fourth alternativ is a flight to Tromsø (TOS) but this is a complicated commute to Lofoten, and takes about 6-7 hours by bus, including changing busses a few times.
+2. **Fly to Leknes**
 
-Schedule from Tromsø to Lofoten can be checked here: [https://177nordland.no/](https://177nordland.no/ "https://177nordland.no/")
+You can fly to Leknes (LKN) from Oslo (OSL) or from Bodø (BOO)- **these flights are still really expensive**
 
-Bus connections: - there are 2 options going to and from Evenes
+3. **Fly to Evenes (cheapest option)**
 
-1: The airport bus (this is the best option)
+Evenes is reachable from Oslo and many other destinations, and has many airlines arriving and also come low cost airlines, so usually many options and the cheapest options. From Evenes you can catch a 3 hour bus to Lofoten and their capital city Svolvær. The scheduled are not the best but you car rather take the airport bus that corresponds with most flights or the local buses, you can check the timing on google maps and buy the ticket directly onboard with credit card 
 
-The airport bus corresponds with most flights into Evenes, and takes you directly to Svolvær, and only a 5 minute walk from the bus station to our office. The schedule can be checked here: [www.flybussen.no](http://www.flybussen.no/)
+4. **Fly to Tromso (If you have time)**
 
-2\. The local bus also takes you to and from the airport, but takes a little longer. You can check the schedule here: www.177nordland.no
+A flight to Tromsø (TOS) it means a complicated commute to Lofoten, and takes about 6-7 hours by bus with different change or renting a car
 
-\*If the information above is incorrect or is difficult to understand or work with, please let us know, and we can be helpful in planning your travel to Lofoten - we try to update this information as often as we can.
-
-  
 Hiking in Lofoten is maybe the main reason why people visit our beautiful islands.
 
 We are very focused on our guests having the best and safest experience possible when hiking; so we have listed a few apps we recommend you download before arriving;
