@@ -49,7 +49,7 @@ It’s not difficult to find a perfect camping spot for the night in the Lofoten
 
 There are different company and option to rent a campervan in the Lofoten directly.
 
-* We use the [https://www.lofotenvanlife.no/](https://www.lofotenvanlife.no/ "https://www.lofotenvanlife.no/") as we fell in love with their old timer campervan (they even have option for automatic transmission)
+* We used the [https://www.lofotenvanlife.no/](https://www.lofotenvanlife.no/ "https://www.lofotenvanlife.no/") as we fell in love with their old timer campervan (they even have options for automatic transmission)
 * [https://www.lofotenvwcamper.com/vw-campers/](https://www.lofotenvwcamper.com/vw-campers/ "https://www.lofotenvwcamper.com/vw-campers/") (in svolvaer, lekens or hennisvager)
 * [https://www.vansofnorway.com/](https://www.vansofnorway.com/ "https://www.vansofnorway.com/")
 * In Tromso yon can rent one of the artic campers [https://arcticcampers.no/](https://arcticcampers.no/ "https://arcticcampers.no/")
