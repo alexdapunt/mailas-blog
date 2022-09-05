@@ -49,7 +49,7 @@ It’s not difficult to find a perfect camping spot for the night in the Lofoten
 
 There are different company and option to rent a campervan in the Lofoten directly.
 
-* We use the  [https://www.lofotenvanlife.no/](https://www.lofotenvanlife.no/ "https://www.lofotenvanlife.no/") as we fell in love with their old timer campervan (they even have option for automatic transmission)
+* We use the [https://www.lofotenvanlife.no/](https://www.lofotenvanlife.no/ "https://www.lofotenvanlife.no/") as we fell in love with their old timer campervan (they even have option for automatic transmission)
 * [https://www.lofotenvwcamper.com/vw-campers/](https://www.lofotenvwcamper.com/vw-campers/ "https://www.lofotenvwcamper.com/vw-campers/") (in svolvaer, lekens or hennisvager)
 * [https://www.vansofnorway.com/](https://www.vansofnorway.com/ "https://www.vansofnorway.com/")
 * In Tromso yon can rent one of the artic campers [https://arcticcampers.no/](https://arcticcampers.no/ "https://arcticcampers.no/")
@@ -114,7 +114,7 @@ It is one of the easiest hikes in the area, but the most mentally strenuous espe
 
 **Visit villages**
 
-One of the most stunning villages are: Ä, Hannisvager, Hamnoy, Nusfjord and Reine
+One of the most stunning villages are: Ä, Hannisvager, Hamnoy (in the photo), Nusfjord and Reine
 
 ![](/images/21555ffb-67d5-4d3d-8d84-56ff2563bd0c.JPG)
 
