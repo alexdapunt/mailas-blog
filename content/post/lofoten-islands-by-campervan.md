@@ -138,7 +138,7 @@ Open the maps and exit the E10 highway and you will be confronted with a dramati
 
 **Kayak in the fjords or go fishing**
 
-There are different tour starting from the villages, mainly from Reine. Having an totally outstanding nature experience
+There are different tour starting from the villages, mainly from Reine. Having a totally outstanding nature experience
 
 ![](/images/benjamin-davies-mqn-ev9rnly-unsplash.jpg)
 
