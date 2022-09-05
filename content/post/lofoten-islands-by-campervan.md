@@ -92,9 +92,9 @@ From a certain level, you pass over a lake that offers superb views with the sea
 
 1. **Reinebringen**
 
-This is the most popular and popular hike in Lofoten.
+This is the most popular and busy hike in Lofoten.
 
-It is one of the easiest hikes in the area, but the most mentally strenuous especially since it is basically a long climb (2k steps) to the top. There is nothing fun about doing it, but the view from the top is breathtaking and absolutely worth it
+It is one of the easiest hikes in the area, but the most mentally strenuous especially since it is basically a long stairway (2k steps) to the top. There is nothing fun about doing it, but the view from the top is breathtaking and absolutely worth it
 
 **Difficulty**: Medium
 
