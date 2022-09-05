@@ -1,11 +1,10 @@
 ---
 timeToRead: 7
 authors: []
-title: 'Lofoten islands by Campervan (in summer) '
+title: 'Lofoten Islands by Campervan (summer) '
 excerpt: ''
 date: 2022-09-04T22:00:00+00:00
 hero: "/images/ivars-utinans-pfr5p1-tqzw-unsplash.jpg"
-draft: true
 
 ---
 The Lofoten island are the amazing archipelago in the north of Norway that offers breathtaking scenery with mountain peaks over beautiful view, Arctic fjords, small fishing villages and beautiful clean water beaches.
@@ -46,7 +45,7 @@ You will have to first reach the international airport in Oslo and than:
 
 Renting a camper is definitely one of the best options for exploring the area. The Norwegian right to roam gives you free access to the countryside and allows you to stay overnight in some great places.
 
-![](/images/img_5874-copy.png)
+ ![](/images/img_5874-copy.png)
 
 It’s not difficult to find a perfect camping spot for the night in the Lofoten but the app [Park4Night](https://park4night.com/) for campsites give some ideas for free camping spots and reviews.
 
