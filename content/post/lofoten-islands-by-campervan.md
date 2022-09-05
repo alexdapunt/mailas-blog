@@ -14,25 +14,51 @@ The Lofoten island are the amazing archipelago in the north of Norway, in the **
 
 ### How to arrive there 
 
-1. **Fly to Svolvær**
+All the option are intended from Oslo\`;
 
-The Easiest and fastest way is to fly to Svolvær airport (SVJ) you can catch a direct flight from Oslo (OSL) to Svolvær or fly to Bodø (BOO) and then to Svolvær - **these flights are usually the most expensive**
+1. **Fly to Svolvær (expensive)** 
 
-2. **Fly to Leknes**
+   Svolvær is the capital of Lofoten and the location of most of the companies that rent campervan. Flying directly into Svolvær Airport is the most convenient and fastest option, but also the most expensive. Direct flights are only from Oslo or Bodø.
 
-You can fly to Leknes (LKN) from Oslo (OSL) or from Bodø (BOO)- **these flights are still really expensive**
 
+2. **Fly to Leknes (expensive)** 
+
+   Leknes is in heart of the **_Lofoten_** Islands
+
+   You can here directly from Oslo or from Bodø 
 3. **Fly to Evenes (cheapest option)**
 
-Evenes is reachable from Oslo and many other destinations, and has many airlines arriving and also come low cost airlines, so usually many options and the cheapest options. From Evenes you can catch a 3 hour bus to Lofoten and their capital city Svolvær. The scheduled are not the best but you car rather take the airport bus that corresponds with most flights or the local buses, you can check the timing on google maps and buy the ticket directly onboard with credit card 
+   Evenes is reachable from Oslo and many other destinations, and has many low-cost airlines (norwegian airlines) flying here, so there are many more and much cheaper options.   
+   From Evenes you can then take a 3-hour bus to Lofoten and their capital Svolvær (at a cost of 40EUR one way).   
+   The timetables are not the best, but there is an airport bus that matches most flights, you can check the timetables on google maps and buy the ticket directly on board with a credit card. 
+4. **Take a ferry from Bodo**
 
-4. **Fly to Tromso (If you have time)**
+   You can take the ferry that sails from Bodø to Moskenes. The ferry takes 3-4 hours and costs 30 EUR per passenger plus about 90 EUR for the car. There is also two other ferries that sails from Bodø to Svolvær (3.5 hours). Bodø is reached by low cost flights, but it also the northernmost stop on the Norwegian train network, therefore it's possible to take the train from Oslo or Bergen to Bodø.
+5. **Fly to Tromso (If you have time)**
 
-A flight to Tromsø (TOS) it means a complicated commute to Lofoten, and takes about 6-7 hours by bus with different change or renting a car
+   A flight to Tromsø it means a complicated commute to Lofoten, and takes about 6-7 hours by bus with different change or renting a car, but it is still an option if you have time and want to exlpore a different amazing part of north Norway 
 
-Hiking in Lofoten is maybe the main reason why people visit our beautiful islands.
+### Rent a Campervan in the Lofoten
 
-We are very focused on our guests having the best and safest experience possible when hiking; so we have listed a few apps we recommend you download before arriving;
+Renting a Campervan is definitely one of the best option to explore the area. The Norwegian right to roam, gives you free access to the countryside    and to stay off-grid in some amazing spot for the night
+
+It’s not difficult to find a perfect camping spot for the night in Norway, but a little extra help never hurts. Download the app [Park4Night](https://park4night.com/) for campsites, free camping spots and reviews.
+
+There are different company and option to rent a campervan in the lofoten directly.
+
+We use the  [https://www.lofotenvanlife.no/](https://www.lofotenvanlife.no/ "https://www.lofotenvanlife.no/") as we fell in love with their old timer campervan (they even have option for automatic transmission)
+
+[https://www.lofotenvwcamper.com/vw-campers/](https://www.lofotenvwcamper.com/vw-campers/ "https://www.lofotenvwcamper.com/vw-campers/") (in svolvaer, lekens or hennisvager)
+
+[https://www.vansofnorway.com/](https://www.vansofnorway.com/ "https://www.vansofnorway.com/")
+
+In Tromso yon have a look to [https://arcticcampers.no/](https://arcticcampers.no/ "https://arcticcampers.no/")
+
+### What to do in the Lofoten
+
+##### **Hiking** 
+
+Hiking in Lofoten is maybe the main reason why people visit this beautiful are
 
 Fatmap: Find the perfect route, plan like a pro with the world's most advanced 3D outdoor map and record your adventures and share them with the community.Whether skiing, ski touring, freeriding, hiking, biking or running, if you love mountain adventure, you'll find your community on FATMAP.
 
