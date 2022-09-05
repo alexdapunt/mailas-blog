@@ -8,7 +8,7 @@ hero: "/images/ivars-utinans-pfr5p1-tqzw-unsplash.jpg"
 draft: true
 
 ---
-The Lofoten island are the amazing archipelago in the north of Norway, in the **Arctic Circle**, that offers breathtaking scenery with mountain peaks over beautiful view, Arctic fjords, small fishing villages and beautiful clean water beaches.
+The Lofoten island are the amazing archipelago in the north of Norway that offers breathtaking scenery with mountain peaks over beautiful view, Arctic fjords, small fishing villages and beautiful clean water beaches.
 
 **This is a unique trip, Lofoten landscapes and colours are like nowhere else in the world.**
 
