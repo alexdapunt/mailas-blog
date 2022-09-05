@@ -148,7 +148,7 @@ There are not many sauna publicly accessibile in the area. But you can have a lo
 
 **Eat the best cinnamon bun and the best fish burger in the area**
 
-Don't miss the Unstad Artic Surf Cinnamon bun it will blow your mind and when in Reine, after hiking the Reinebringen, stop at Anita's Sjømat you will not regret it
+Don't miss the best Cinnamon bun in the Unstad Artic Surf bar and when in Reine, after hiking the Reinebringen, stop at Anita's Sjømat, you will not regret it
 
 ![](/images/img_6065-copy.png)
 
