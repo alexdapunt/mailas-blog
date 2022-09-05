@@ -13,28 +13,26 @@ The Lofoten island are the amazing archipelago in the north of Norway that offer
 
 ![](/images/img_5507-copy.png)
 
-### How to arrive there 
+### How to arrive there
 
-You will have to first reach the international airport in Oslo and than: 
+You will have to first reach the international airport in Oslo and than:
 
-1. **Fly to Svolvær (expensive)** 
+1. **Fly to Svolvær (expensive)**
 
    Svolvær is the capital of Lofoten and the location of most of the companies that rent campervan. Flying directly into Svolvær Airport is the most convenient and fastest option, but also the most expensive. Direct flights are only from Oslo or Bodø.
-
-
-2. **Fly to Leknes (expensive)** 
+2. **Fly to Leknes (expensive)**
 
    Leknes is located in the heart of the Lofoten Islands.
 
    You can get there directly from Oslo or Bodø. As with Svolvær, this is a convenient but expensive option.
 3. **Fly to Evenes (cheapest option)**
 
-   Evenes is reachable from Oslo and many other destinations, and has many low-cost airlines (norwegian airlines) flying here, so there are many more and much cheaper options.   
-   From Evenes you can then take a 3-hour bus to Lofoten and their capital Svolvær (at a cost of 40EUR one way).   
-   The timetables are not the best, but there is an airport bus that matches most flights, you can check the timetables on google maps and buy the ticket directly on board with a credit card. 
+   Evenes is reachable from Oslo and many other destinations, and has many low-cost airlines (norwegian airlines) flying here, so there are many more and much cheaper options.  
+   From Evenes you can then take a 3-hour bus to Lofoten and their capital Svolvær (at a cost of 40EUR one way).  
+   The timetables are not the best, but there is an airport bus that matches most flights, you can check the timetables on google maps and buy the ticket directly on board with a credit card.
 4. **Take a ferry from Bodo**
 
-   You can take the ferry that sails from Bodø to Moskenes. The ferry takes 3-4 hours and costs 30 EUR per passenger plus about 90 EUR for the car. There is also two other ferries that sails from Bodø to Svolvær (3.5 hours). 
+   You can take the ferry that sails from Bodø to Moskenes. The ferry takes 3-4 hours and costs 30 EUR per passenger plus about 90 EUR for the car. There is also two other ferries that sails from Bodø to Svolvær (3.5 hours).
 
    Bodø is reached by low cost flights, but it also the northernmost stop on the Norwegian train network, therefore it's possible to take the train from Oslo or Bergen to Bodø.
 5. **Fly to Tromso (If you have time)**
@@ -45,7 +43,7 @@ You will have to first reach the international airport in Oslo and than:
 
 Renting a camper is definitely one of the best options for exploring the area. The Norwegian right to roam gives you free access to the countryside and allows you to stay overnight in some great places.
 
- ![](/images/img_5874-copy.png)
+![](/images/img_5874-copy.png)
 
 It’s not difficult to find a perfect camping spot for the night in the Lofoten but the app [Park4Night](https://park4night.com/) for campsites give some ideas for free camping spots and reviews.
 
@@ -56,13 +54,13 @@ There are different company and option to rent a campervan in the Lofoten direct
 * [https://www.vansofnorway.com/](https://www.vansofnorway.com/ "https://www.vansofnorway.com/")
 * In Tromso yon can rent one of the artic campers [https://arcticcampers.no/](https://arcticcampers.no/ "https://arcticcampers.no/")
 
-### Hiking in the Lofoten  
+### Hiking in the Lofoten
 
 Hiking in Lofoten is maybe the main reason why people visit this beautiful area.
 
 These are some of my favorites that we did:
 
-1. **Ryten** 
+1. **Ryten**
 
 This is one of the best hikes with a view of the beaches, as well as being the famous photo spot where people appear to be hanging from a rock on a promontory.
 
@@ -70,7 +68,7 @@ You can only go to the top, or go down to the sandy beach of Kvalvika, it is mar
 
 The path itself is not difficult, but it can be wet and the weather is always unpredictable, so you should always have a warm, waterproof layer in your backpack.
 
-**Difficulty**: Medium easy 
+**Difficulty**: Medium easy
 
 **Time**: 3-4h (depending if you want to go to the beach and from wether condition)
 
@@ -78,7 +76,7 @@ The path itself is not difficult, but it can be wet and the weather is always un
 
 ![](/images/dsc_6776.JPG)
 
-2. **Festvagtinden**
+1. **Festvagtinden**
 
 This is a less popular hike and the starting point is very close to the famous village of Henningsvaer. At the top there are breathtaking views of the village and its islets.
 
@@ -86,48 +84,48 @@ The hike is of medium difficulty, pero in some places it gets steeper and the tr
 
 From a certain level, you pass over a lake that offers superb views with the sea in the background.
 
-**Difficulty**: Medium  
+**Difficulty**: Medium
 
-**Time**: 3-4h 
+**Time**: 3-4h
 
 **Starting point**: Parking before the bridge for Hannisvager ![](/images/b4489ecc-6eeb-4a0a-be9d-4d723274e9cc.JPG)
 
-3. **Reinebringen** 
+1. **Reinebringen**
 
 This is the most popular and popular hike in Lofoten.
 
 It is one of the easiest hikes in the area, but the most mentally strenuous especially since it is basically a long climb (2k steps) to the top. There is nothing fun about doing it, but the view from the top is breathtaking and absolutely worth it
 
-**Difficulty**: Medium  
+**Difficulty**: Medium
 
-**Time**: 2-3 h 
+**Time**: 2-3 h
 
-**Starting point**: Trailhead located on the road along the Ramvisk Tunnel (it is on google maps), you can park in the parking on the corner of the E10 
+**Starting point**: Trailhead located on the road along the Ramvisk Tunnel (it is on google maps), you can park in the parking on the corner of the E10
 
 ![](/images/3886569e-8d11-44a3-92cd-25f5b173faa2.JPG)
 
-4. **Other hikes on my list** 
+1. **Other hikes on my list**
 
 * Mannen
 * Munken
 * Fløya & Devil’s Gate
 
-#### What else to do in the Lofoten 
+#### What else to do in the Lofoten
 
 **Visit villages**
 
-One of the most stunning villages are: Ä, Hannisvager, Hamnoy, Nusfjord and Reine 
+One of the most stunning villages are: Ä, Hannisvager, Hamnoy, Nusfjord and Reine
 
 ![](/images/21555ffb-67d5-4d3d-8d84-56ff2563bd0c.JPG)
 
-**Blue water beaches and Surf** 
+**Blue water beaches and Surf**
 
 Lofoten is home to incredible crystal-clear water beaches that will make you feel like you're in southern Europe. The water is cold, but on a sunny day you can go swimming and surfing taking advantage of the waves that form.
 
 Some of my favourite:
 
 * Haukland beach
-* Ramberg 
+* Ramberg
 * Uttakleiv
 
 ![](/images/e285091a-9715-452d-8a23-583f15e58c44.JPG)
@@ -138,19 +136,19 @@ Open the maps and exit the E10 highway and you will be confronted with a dramati
 
 ![](/images/fe15a0b8-911f-4d76-b6f6-434db0a12a68.JPG)
 
-**Kayak in the fjords or go fishing** 
+**Kayak in the fjords or go fishing**
 
 There are different tour starting from the villages, mainly from Reine. Having an totally outstanding nature experience
 
 ![](/images/benjamin-davies-mqn-ev9rnly-unsplash.jpg)
 
-**Relax in a sauna** 
+**Relax in a sauna**
 
 There are not many sauna publicly accessibile in the area. But you can have a look to the Hamnøy Sauna and the Lofoten Sauna in Svolvær
 
-**Eat the best cinnamon bun and the best fish burger in the area** 
+**Eat the best cinnamon bun and the best fish burger in the area**
 
-Don't miss the Unstad Artic Surf Cinnamon bun it will blow your mind and when in Reine, after hiking the Reinebringen, stop at Anita's Sjømat you will not regret it 
+Don't miss the Unstad Artic Surf Cinnamon bun it will blow your mind and when in Reine, after hiking the Reinebringen, stop at Anita's Sjømat you will not regret it
 
 ![](/images/img_6065-copy.png)
 
