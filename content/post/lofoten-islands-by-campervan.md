@@ -80,7 +80,7 @@ The path itself is not difficult, but it can be wet and the weather is always un
 
 This is a less popular hike and the starting point is very close to the famous village of Henningsvaer. At the top there are breathtaking views of the village and its islets.
 
-The hike is of medium difficulty, pero in some places it gets steeper and the trail is not well marked
+The hike is of medium difficulty, but in some places it gets steeper and the trail is not well marked
 
 From a certain level, you pass over a lake that offers superb views with the sea in the background.
 
