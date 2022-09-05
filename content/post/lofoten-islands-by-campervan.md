@@ -16,7 +16,7 @@ The Lofoten island are the amazing archipelago in the north of Norway that offer
 
 ### How to arrive there 
 
-All the option are intended from Oslo\`:
+You will have to first reach the international airport in Oslo and than: 
 
 1. **Fly to Svolvær (expensive)** 
 
