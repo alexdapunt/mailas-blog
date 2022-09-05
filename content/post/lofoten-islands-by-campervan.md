@@ -58,7 +58,7 @@ There are different company and option to rent a campervan in the Lofoten direct
 
 Hiking in Lofoten is maybe the main reason why people visit this beautiful area.
 
-These are some of my favorites that we did:
+These are some of my favorites:
 
 1. **Ryten**
 
