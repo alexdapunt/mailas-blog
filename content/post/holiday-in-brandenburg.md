@@ -3,7 +3,7 @@ timeToRead: 8
 authors: []
 title: 'Countryside getaways from Berlin '
 excerpt: 'Berlin '
-date: 2022-06-30T22:00:00+00:00
+date: 2022-06-30T22:00:00.000+00:00
 hero: "/images/jack-b-gtdz6xsqt70-unsplash.jpg"
 
 ---
@@ -83,7 +83,7 @@ The Unteruckersee offers boat activities and is only 2.5 km away.
 
 Here you can enjoy your time off in a modern vacation home in the heart of Lake Mecklenburg. The entire surrounding area is the largest contiguous lake area in Central Europe.
 
-The house it is an amazing starting point for hikes, bike tours and canoe tours. 
+The house it is an amazing starting point for hikes, bike tours and canoe tours.
 
 They have suggestions on their website for different type of activity
 
@@ -110,6 +110,18 @@ You can plan a day trip or stay overnight, they have several room and flat optio
 * **Public transportation:** RE6 for Neuruppin Rheinsberger Tor
 
 ![](/images/resort-mark-brandenburg_fontane_therme_soleaussenpool_39-800x492-c-center.jpg)
+
+### 6.Das schwarze Haus
+
+A beautiful two-storey house designed by architect Thomas Kröger. Surrounded by nature and beautiful lakes, in what is known as the German-Uckermark
+
+* **Link:** [https://www.dasschwarzehaus.de/](https://www.dasschwarzehaus.de/ "https://www.dasschwarzehaus.de/")
+* **Distance from Berlin:** 100 kilometers
+* **Travel time:** 1.20 hour each way
+* **Reach by:** Car 
+* **Public transportation:** from Potsdamer Platz Berlin to Seehausen, Uckermark. The nearest train station is in Seehausen.
+
+![](/images/aussentag.jpg)
 
 ### 5.Other links and ideas
 
