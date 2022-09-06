@@ -76,7 +76,7 @@ The path itself is not difficult, but it can be wet and the weather is always un
 
 ![](/images/dsc_6776.JPG)
 
-1. **Festvagtinden**
+2. **Festvagtinden**
 
 This is a less popular hike and the starting point is very close to the famous village of Henningsvaer. At the top there are breathtaking views of the village and its islets.
 
@@ -90,7 +90,7 @@ From a certain level, you pass over a lake that offers superb views with the sea
 
 **Starting point**: Parking before the bridge for Hannisvager ![](/images/b4489ecc-6eeb-4a0a-be9d-4d723274e9cc.JPG)
 
-1. **Reinebringen**
+3. **Reinebringen**
 
 This is the most popular and busy hike in Lofoten.
 
@@ -104,7 +104,7 @@ It is one of the easiest hikes in the area, but the most mentally strenuous espe
 
 ![](/images/3886569e-8d11-44a3-92cd-25f5b173faa2.JPG)
 
-1. **Other hikes on my list**
+4. **Other hikes on my list**
 
 * Mannen
 * Munken
@@ -112,7 +112,7 @@ It is one of the easiest hikes in the area, but the most mentally strenuous espe
 
 ### What else to do in the Lofoten
 
-##### **Visit villages**
+#### **Visit villages**
 
 One of the most stunning villages are: Ä, Hannisvager, Hamnoy (in the photo), Nusfjord and Reine
 
@@ -130,23 +130,23 @@ Some of my favourite:
 
 ![](/images/e285091a-9715-452d-8a23-583f15e58c44.JPG)
 
-##### **Get lost in the secondary roads**
+#### **Get lost in the secondary roads**
 
 Open the maps and exit the E10 highway and you will be confronted with a dramatic and stunning road view. As well as finding great spots for the night
 
 ![](/images/fe15a0b8-911f-4d76-b6f6-434db0a12a68.JPG)
 
-##### **Kayak in the fjords or go fishing**
+#### **Kayak in the fjords or go fishing**
 
 There are different tour starting from the villages, mainly from Reine. Having a totally outstanding nature experience
 
 ![](/images/benjamin-davies-mqn-ev9rnly-unsplash.jpg)
 
-##### **Relax in a sauna**
+#### **Relax in a sauna**
 
 There are not many sauna publicly accessibile in the area. But you can have a look to the Hamnøy Sauna and the Lofoten Sauna in Svolvær
 
-##### **Eat the best cinnamon bun and the best fish burger in the area**
+#### **Eat the best cinnamon bun and the best fish burger in the area**
 
 Don't miss the best Cinnamon bun in the Unstad Artic Surf bar and when in Reine, after hiking the Reinebringen, stop at Anita's Sjømat, you will not regret it
 
