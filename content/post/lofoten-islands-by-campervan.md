@@ -2,7 +2,7 @@
 timeToRead: 7
 authors: []
 title: 'Lofoten Islands by Campervan (summer) '
-excerpt: ''
+excerpt: Norway
 date: 2022-09-04T22:00:00+00:00
 hero: "/images/ivars-utinans-pfr5p1-tqzw-unsplash.jpg"
 
