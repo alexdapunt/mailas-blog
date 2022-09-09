@@ -2,8 +2,8 @@
 timeToRead: 10
 authors: []
 title: 'Peru itinerary '
-excerpt: Peru travel tips
-date: 2022-05-31T22:00:00+00:00
+excerpt: Peru
+date: 2022-05-31T22:00:00.000+00:00
 hero: "/images/willian-justen-de-vasconcellos-4hmet7vytaq-unsplash.jpg"
 
 ---
