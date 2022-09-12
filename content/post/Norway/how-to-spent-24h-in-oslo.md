@@ -1,7 +1,7 @@
 ---
 timeToRead: 6
 authors: []
-title: 'How to spent 24h in Oslo '
+title: 'How to spend 24 hours in Oslo '
 excerpt: Norway
 date: 2022-09-11T22:00:00+00:00
 hero: "/images/christoffer-engstrom-tjguvu0goem-unsplash.jpg"
@@ -13,7 +13,7 @@ The city is generally very compact and one day is enough to get a feel for it. y
 
 ### Best Time to Visit Oslo
 
-Although Oslo is beautiful to see all year round, it is definitely best to travel during the summer months, when you can really enjoy the outdoors.
+Although Oslo is beautiful to see all year round, it is definitely best to travel during the summer months when you can really enjoy the outdoors.
 
 ![](/images/arsene-m-ovrejorde-bovgw4div6u-unsplash.jpg)
 
@@ -25,7 +25,7 @@ Simply download the **Oslo Pass app** to get all the necessary information and h
 
 The **cost** for 1 adult is 445 NOK (Approx. 40 EUR) for 24 hours, 655 NOK (Approx. 59 EUR) for 48 hours or 820 NOK (Approx. 74 EUR) for 72 hours. 
 
-It is an interesting option if you are interested in more than one museum attraction or if you prefer to travel by transport (which works perfectly well in the city) 
+It is an nice option if you are interested in more than one museum attraction or if you prefer to travel by transport (which works perfectly well in the city) 
 
 Keep in mind that Oslo is a rather small city and you can get around easily on foot or by bicycle.
 
