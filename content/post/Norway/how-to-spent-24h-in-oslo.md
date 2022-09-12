@@ -45,9 +45,7 @@ The City Hall is one of Oslo's main government buildings. Although it is a gover
 
 ##### Vigeland museum 
 
-Take a walk in Vigeland Park.
-
-The sculpture park is the life's work of Gustav Vigeland and includes over 200 sculptures in granite, bronze and wrought iron.
+Take a walk in Vigeland Park. The sculpture park is the life's work of Gustav Vigeland and includes over 200 sculptures in granite, bronze and wrought iron.
 
 ![](/images/whatsapp-image-2022-09-12-at-14-34-52.jpeg)
 
