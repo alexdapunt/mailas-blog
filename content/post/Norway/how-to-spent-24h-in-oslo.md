@@ -77,8 +77,13 @@ The National Museum in Oslo, on the other hand, houses one of the most important
 
 ##### Oslo Badstuforening 
 
-The Oslo floating fjord Sauna it is the perfect experience if you love Sauna and the experience to swim in the fjord to cool down
+If you have more than 1 day the Oslo floating fjord Sauna it is the perfect experience if you love Sauna and the experience to swim in the fjord to cool down
 
 The saunas and the hot tub can be booked online
 
 ![](/images/anne-nygard-fqdayrxjkko-unsplash.jpg)
+
+##### Other tips
+
+* To create your itinerary, simply save all the places I mentioned and you like in google maps and create the most efficient way according to your start 
+* Food is expensive in Oslo, there are different Food Market that you can try for less expensive options (VIppa, Oslo street food, Mathallen Oslo)
