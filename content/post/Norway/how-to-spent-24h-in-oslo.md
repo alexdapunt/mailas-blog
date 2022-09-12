@@ -45,7 +45,7 @@ The City Hall is one of Oslo's main government buildings. Although it is a gover
 
 ##### Vigeland museum 
 
-Take a walk in Vigeland Park. The sculpture park is the life's work of Gustav Vigeland and includes over 200 sculptures in granite, bronze and wrought iron.
+Take a walk in Vigeland Park.The sculpture park is the life's work of Gustav Vigeland and includes over 200 sculptures in granite, bronze and wrought iron.
 
 ![](/images/whatsapp-image-2022-09-12-at-14-34-52.jpeg)
 
@@ -85,3 +85,4 @@ The saunas and the hot tub can be booked online
 
 * To create your itinerary, simply save all the places I mentioned and you like in google maps and create the most efficient way according to your start 
 * Food is expensive in Oslo, there are different Food Market that you can try for less expensive options (VIppa, Oslo street food, Mathallen Oslo)
+* You can download Bysykkel app to explore the city by bike, you can park the bike in one of their 262 stations
