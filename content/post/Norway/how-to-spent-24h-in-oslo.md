@@ -25,7 +25,7 @@ Simply download the **Oslo Pass app** to get all the necessary information and h
 
 The **cost** for 1 adult is 445 NOK (Approx. 40 EUR) for 24 hours, 655 NOK (Approx. 59 EUR) for 48 hours or 820 NOK (Approx. 74 EUR) for 72 hours. 
 
-It is an nice option if you are interested in more than one museum attraction or if you prefer to travel by transport (which works perfectly well in the city) 
+It is an great option if you are interested in more than one museum attraction or if you prefer to travel by transport (which works perfectly well in the city) 
 
 Keep in mind that Oslo is a rather small city and you can get around easily on foot or by bicycle.
 
