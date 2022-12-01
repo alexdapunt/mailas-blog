@@ -1,90 +1,103 @@
 ---
 timeToRead: 0
 authors: []
-title: 'What to do in a long layover in Singapore Airport '
+title: What to do in a long layover in Changi Singapore airport
 excerpt: ''
 date: 
-hero: ''
-draft: true
+hero: "/images/faris-ariffin-n7czxpa6ofk-unsplash.jpg"
 
 ---
-If there is one place where it is not a problem to have transit or a long layover, it would be Singapore! 
+If there is one place where it is no problem to have a transit or long layover, it is Singapore's Changi Airport!
 
-Whether you want to tour the city or enjoy different options inside the airport, It’s the for sure the best airport for a layover in Southeast Asia. 
+Whether you want to visit the city or enjoy different options within the airport, it is definitely the best airport for a stopover in Southeast Asia.
 
-Visit
+### Things to do 
 
-**See the World’s Tallest Indoor Waterfall:** The Rain Vortex is a waterfall located inside the Singapore Airport. It is a massive display; measuring 7 stories tall.
+##### **See the HSBC Rain Vortex**
 
-* **Look at the Art Exhibits:** There are countless art installations & exhibits at the airport. Some favorites are [_The Memory of Lived Space_](http://www.janetlaurence.com/the-memory-of-lived-spaces/) & [_Singapore Rojak_](https://yipyc.com/blog/2018/07/19/singapore-rojak-batik/).
-* **Take a dip in the pool & jacuzzi:** Pay a day rate to spend time in a rooftop pool & jacuzzi.
-* **Get a Spa Service:** Indulge in a spa treatment at the airport spa.
+This is the world's tallest indoor waterfall, located inside the Singapore airport in the mall in front of arrivals (you will have to go through immigration and have an entry visa)
 
-**Watch a Movie in the Theatre:** Go see a new movie at the Singapore Airport Movie Theatre.
+![](/images/jonathan-lim-r5kfzr_iarc-unsplash.jpg)
 
-**Go in the city center** 
+##### Take a dip in the rooftop pool and hot tub
 
-it’s quick and easy to get out of the airport and into the center.
+Located at the Singapore Airport transit hotel in Terminal 1, you pay an entrance fee of about 18 Singapore dollars and can stay as long as you want to enjoy some sun and refresh yourself before your flight.
 
-Advisable to follow if you have at least 6 hours of total Singapore layover time.
+![](/images/785979a8-b900-4c79-88de-2bf42e6c07e5.JPG)
 
-you _need_ to have a valid visa to exit the Singapore Changi Airport and clear immigration
+##### **Watch a Movie in the Cinema** 
 
-_You can leave your heavy carry on after immigration_
+You can find the movie [theatres](https://www.changiairport.com/en/airport-guide/facilities-and-services/movie-theatre.html?spm=BlogArticle.InArticleHyperlinkWord&clickId=ac83758b1d) in terminal 2 and 3 where you can watch  the different films free of charge
 
-Prices vary depending on suitcase size, I paid 10 Singaporean Dollars (SGD) for the whole day for my carry-on trolley.
+##### **Look at the Art Exhibits**
 
-_Don’t forget to leave your luggage at the airport. It’s best to leave your carry-on too, as well as any other heavy backpacks because they will be a pain to carry when you explore the city._
+There are countless art installations & exhibits at the airport
 
-The two easiest ways to get from Singapore Changi Airport to the city centre of Singapore are either by taxi or with the MRT train service.
+##### **Go in the city center**
 
-The MRT costs around 2 SGD versus the 20 SGD of a [taxi](https://www.getyourguide.com/singapore-l170/singapore-changi-airport-tofrom-hotel-private-transfer-t367915/?partner_id=YK95C97&utm_medium=online_publisher&utm_source=greta%27s_travels&placement=content-top&cmp=SingaporeLayover), however it can take up to an hour whilst the taxi will get you there in 15 minutes.
-
-Even if you have a long layover in Singapore, I would personally recommend getting a taxi as you don’t want to waste 2 hours out of your 12 hours in Singapore in the MRT just trying to get into the city centre and back.
-
-Gardens by the bay
-
-Hail a public taxi from Changi Airport and instruct them to take you to _Gardens by the Bay_. It will take you a maximum of 15 minutes to locate a taxi and 30 minutes to drive from the airport to Gardens by the Bay. In total, the entire process should take you around 45 minutes.
-
-Access to the gardens is free and you can walk around almost everywhere, but you do have to pay for some of the attractions inside.
-
-The Supertree Grove, as the name implies, is the main attraction with the big colourful trees.
-
-You can get on top of the trees entering OCBC Skyway for 8 SGDthere is a walkway path that connects some of the trees.
-
-Marina Bay Sands
-
-Walk around _Marina Bay Sands,_ which is located next to Gardens by the Bay. There are a lot of things to see within Marina Bay Sands, and the recommended amount of time to spend there is 2 to 4 hours. Because you’ll be on a time crunch, settle for only being able to see a glimpse of it and spend 1.5 hours there.
-
-The price to access the observation deck is 23 SGD, which is a bit expensive considering it’s just for the view.
-
-I struggled a little to find how to get to the top since my taxi had dropped me off on the other side of the hotel, it’s easier to find if you head straight for Tower 3.
-
-The merlion 
-
-The Merlion is one of the most popular tourist sites in Singapore. It is a large fountain with the head of a lion and the tail of fish, representing Singapore’s beginnings as a fishing village and it’s original name “Singapura” meaning “lion city”.
-
-If your layover is during the day I still recommend going for a walk along Clarke Quay, it’s a very pretty area and there are lots of cool places to eat.
-
-Plus day drinking isn’t frowned upon when you’re flying so I’d say you’re allowed a cheeky pint even in the middle of the day.
-
-From Clarke Quay you walk along the Esplanade Bridge until you reach the famous Merlion statue, from here there’s a pretty good view of Marina Bay Sands and the ArtScience Museum from across the bay.
+It is very easy and quick to exit the airport and reach downtown. The city of Singapore is quite small.  
+It is recommended to visit the city if you have at least 6 hours.  
+  
+You can leave your luggage right after immigration control for about 10 SGD for a carry-on. It is the best to leave your luggage and all other heavy backpacks behind, as they will be a hassle to carry when you explore the city.
 
   
-**Little India**
+![](/images/peter-nguyen-cqhgno3yhv8-unsplash.jpg)
 
-According to my fiance, Singapore’s Little India has the best south Indian food outside of India. I did not have the opportunity to visit Little India, but I hope to visit during my next trip to Singapore.
+**How to get there** 
 
-In a brief period of time you can visit three beautiful temples; Sri Veeramakaliamman (good luck asking for directions!), Sri Srinivasa Perumal and the Temple of a Thousand Lights.
+You can get to the city center by cab or by MRT train service.  
+The MRT costs about 2 SGD and a cab about 20 SGD.  
+The train involves a change and takes about an hour, with the cab you are in the city center in about 15-20 minutes.  
+If you are not traveling on a tight budget I recommend taking a cab, because you do not want to waste too many hours in the MRT , having limited time to visit the city  
+  
+**Must seen** 
 
-An iconic Little India spot is the colourful house of Tan Teng Niah, which as you may imagine from the name is actually a relic of the Chinese colonisation of Singapore but you have to thank the Indian community for its bright colours and building upkeep.
+1. **Gardens by the bay**
 
-**Chinatown**
+You can start your itinerary from Gardens by the Bay. The garden itself is free, but if you want to see some of the attractions inside you will have to pay different kinds of fees.   
+  
+The Supertree Grove is the main attraction, with its large, colorful trees; they also hold some very nice shows in the evenings (check the website for times)   
+  
+You can climb to the top of the trees or you can walk the Skyway that connects some of the trees.
 
-Singapore’s Chinatown is an energetic neighborhood with a ton of beautiful buildings, historic sites, and restaurants. One of the cheapest Michelin starred restaurants in the world is located here- Liao Fan Hong Kong Soya Sauce Chicken Rice & Noodle (Hawker Chan).
+![](/images/victor-c53hva-blyq-unsplash.jpg)
 
-It’s fairly close to Little India and is a very interesting area of Singapore to explore.
+2. **Marina Bay Sands**
 
-ArtScience Museum
+In the same area as garden by the bay, you can walk around Marina Bay Sands.
 
-The Future World exhibition definitely deserves a visit. Everything is interactive and there are stations all throughout where you can play educational games.
+You can go up above the observatory for 23 SGD, the view is worth it but it is definitely expensive 
+
+To find the entrance just head to Tower 3.
+
+![](/images/devansh-bhikajee-lhgmcwuz9k-unsplash.jpg)
+
+3. **The Merlion**
+
+The Merlion is perhaps the symbol of Singapore. It is a large fountain with the head of a lion and the tail of a fish. From here you have a nice view of Marina Bay Sands and the ArtScience Museum across the water.
+
+When you visit the Merlion also take a walk around Clarke Quay, it is a very nice area and there are many places to eat.
+
+![](/images/paras-kapoor-qqrokrt6yrk-unsplash.jpg)
+
+4. **Little India**
+
+Visit this super colourful and chaotic neighbourhood. There are three beautiful temples: Sri Veeramakaliamman, Sri Srinivasa Perumal and the Temple of a Thousand Lights.
+
+The most iconic place in Little India on instagram is the colourful Tan Teng Niah house, which is actually a relic of the Chinese colonisation of Singapore 
+
+![](/images/nick-fewings-k2todkspabu-unsplash.jpg)
+
+5. **Chinatown**
+
+Singapore's Chinatown is the most iconic neighbourhood with a wealth of historic buildings and restaurants. It is home to the world's cheapest famous starred restaurant, Liao Fan Hong Kong Soya Sauce Chicken Rice & Noodle. 
+
+It is quite close to Little India and is a very interesting area of Singapore to explore.
+
+![](/images/lily-banse-i9qbyv3mw-m-unsplash.jpg)
+
+6. **ArtScience Museum**
+
+If you have a little more time the _Future World exhibit_ is definitely worth a visit. Everything is interactive and there are several stations where you can play games.
+
+![](/images/rodolfo-cuadros-wnk-f-tnzdw-unsplash.jpg)
