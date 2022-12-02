@@ -61,7 +61,7 @@ You can climb to the top of the trees or you can walk the Skyway that connects s
 
 ![](/images/victor-c53hva-blyq-unsplash.jpg)
 
-1. **Marina Bay Sands**
+2. **Marina Bay Sands**
 
 In the same area as garden by the bay, you can walk around Marina Bay Sands.
 
@@ -69,9 +69,7 @@ You can go up above the observatory for 23 SGD, the view is worth it but it is d
 
 To find the entrance just head to Tower 3.
 
-![](/images/devansh-bhikajee-lhgmcwuz9k-unsplash.jpg)
-
-2. **The Merlion**
+![](/images/devansh-bhikajee-lhgmcwuz9k-unsplash.jpg)3. **The Merlion**
 
 The Merlion is perhaps the symbol of Singapore. It is a large fountain with the head of a lion and the tail of a fish. From here you have a nice view of Marina Bay Sands and the ArtScience Museum across the water.
 
@@ -79,7 +77,7 @@ When you visit the Merlion also take a walk around Clarke Quay, it is a very nic
 
 ![](/images/paras-kapoor-qqrokrt6yrk-unsplash.jpg)
 
-3. **Little India**
+4. **Little India**
 
 Visit this super colourful and chaotic neighbourhood. There are three beautiful temples: Sri Veeramakaliamman, Sri Srinivasa Perumal and the Temple of a Thousand Lights.
 
@@ -87,7 +85,7 @@ The most iconic place in Little India on instagram is the colourful Tan Teng Nia
 
 ![](/images/nick-fewings-k2todkspabu-unsplash.jpg)
 
-4. **Chinatown**
+5. **Chinatown**
 
 Singapore's Chinatown is the most iconic neighbourhood with a wealth of historic buildings and restaurants. It is home to the world's cheapest famous starred restaurant, Liao Fan Hong Kong Soya Sauce Chicken Rice & Noodle.
 
@@ -95,7 +93,7 @@ It is quite close to Little India and is a very interesting area of Singapore to
 
 ![](/images/lily-banse-i9qbyv3mw-m-unsplash.jpg)
 
-5. **ArtScience Museum**
+6. **ArtScience Museum**
 
 If you have a little more time the _Future World exhibit_ is definitely worth a visit. Everything is interactive and there are several stations where you can play games.
 
