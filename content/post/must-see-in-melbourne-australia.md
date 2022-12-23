@@ -4,7 +4,7 @@ authors: []
 title: 'Best Things to Do in Melbourne, Australia '
 excerpt: ''
 date: 
-hero: ''
+hero: "/images/paul-macallan-cofetykhwco-unsplash.jpg"
 
 ---
 Melbourne is a vibrant and cosmopolitan city located in the state of Victoria, Australia. It is known for its lively arts and culture scene, as well as its delicious food and coffee. There are so many things to see and do in Melbourne, it can be hard to know where to start. Here is a guide to spending a day or two in Melbourne, so you can make the most of your time in the city.
