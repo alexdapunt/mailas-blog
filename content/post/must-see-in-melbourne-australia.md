@@ -3,10 +3,11 @@ timeToRead: 0
 authors: []
 title: 'Best Things to Do in Melbourne, Australia '
 excerpt: ''
-date: 
-hero: "/images/paul-macallan-cofetykhwco-unsplash.jpg"
-
+date: null
+hero: /images/paul-macallan-cofetykhwco-unsplash.jpg
+_template: post
 ---
+
 Melbourne is a vibrant and cosmopolitan city located in the state of Victoria, Australia. It is known for its lively arts and culture scene, as well as its delicious food and coffee. There are so many things to see and do in Melbourne, it can be hard to know where to start. Here is a guide to spending a day or two in Melbourne, so you can make the most of your time in the city.
 
 You can easily walk around the city or take the train and tram, there is even a free tram zone to travel on all trams in Melbourne's Central Business District and Docklands. You will have to buy a card (myki) that stores two types of value on the one card - myki pass (travel days) and/or myki money (a dollar amount).

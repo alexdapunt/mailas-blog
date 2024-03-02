@@ -3,10 +3,11 @@ timeToRead: 7
 authors: []
 title: 'Lofoten Islands by Campervan (summer) '
 excerpt: Norway
-date: 2022-09-04T22:00:00+00:00
-hero: "/images/ivars-utinans-pfr5p1-tqzw-unsplash.jpg"
-
+date: 2022-09-04T22:00:00.000Z
+hero: /images/ivars-utinans-pfr5p1-tqzw-unsplash.jpg
+_template: post
 ---
+
 The Lofoten island are the amazing archipelago in the north of Norway that offers breathtaking scenery with mountain peaks over beautiful view, Arctic fjords, small fishing villages and beautiful clean water beaches.
 
 **This is a unique trip, Lofoten landscapes and colours are like nowhere else in the world.**

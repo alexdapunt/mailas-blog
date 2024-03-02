@@ -3,10 +3,11 @@ timeToRead: 8
 authors: []
 title: 'Countryside getaways from Berlin '
 excerpt: 'Berlin '
-date: 2022-06-30T22:00:00.000+00:00
-hero: "/images/jack-b-gtdz6xsqt70-unsplash.jpg"
-
+date: 2022-06-30T22:00:00.000Z
+hero: /images/jack-b-gtdz6xsqt70-unsplash.jpg
+_template: post
 ---
+
 Brandenburg is the state surrounding Berlin. Although it is a state close to Berlin, the region is relatively sparsely populated.
 
 Brandenburg can offer many attractions to enjoy a day or weekend in nature, exploring the forests, lakes and local food.
