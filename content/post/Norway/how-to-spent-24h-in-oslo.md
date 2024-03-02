@@ -3,10 +3,11 @@ timeToRead: 6
 authors: []
 title: 'How to spend 24 hours in Oslo '
 excerpt: Norway
-date: 2022-09-11T22:00:00+00:00
-hero: "/images/christoffer-engstrom-tjguvu0goem-unsplash.jpg"
-
+date: 2022-09-11T22:00:00.000Z
+hero: /images/christoffer-engstrom-tjguvu0goem-unsplash.jpg
+_template: post
 ---
+
 If you only have one day in Oslo, perhaps for a stopover (like me), this 24-hour city guide will show you the best of this Scandinavian city and how you can make the most of it.
 
 The city is generally very compact and one day is enough to get a feel for it. you won't see everything, but one day will allow you to see some of the aspects that make it so special.

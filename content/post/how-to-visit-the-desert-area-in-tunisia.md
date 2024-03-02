@@ -3,10 +3,11 @@ timeToRead: 0
 authors: []
 title: How to visit the desert area in Tunisia
 excerpt: ''
-date: 
-hero: "/images/sz-marton-pplrxobr3ro-unsplash.jpg"
-
+date: null
+hero: /images/sz-marton-pplrxobr3ro-unsplash.jpg
+_template: post
 ---
+
 Tunisia is a country located in North Africa with a rich cultural heritage, beautiful beaches, and a vast desert landscape. If you're planning a trip to Tunisia and want to include a desert experience in your itinerary, here are a few suggestions for things to do and places to visit. 
 
   

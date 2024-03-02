@@ -3,10 +3,11 @@ timeToRead: 0
 authors: []
 title: What to do in a long layover in Changi Singapore airport
 excerpt: ''
-date: 
-hero: "/images/faris-ariffin-n7czxpa6ofk-unsplash.jpg"
-
+date: null
+hero: /images/faris-ariffin-n7czxpa6ofk-unsplash.jpg
+_template: post
 ---
+
 If there is one place where it is no problem to have a transit or long layover, it is Singapore's Changi Airport!
 
 Whether you want to visit the city or enjoy different options within the airport, it is definitely the best airport for a stopover in Southeast Asia.
